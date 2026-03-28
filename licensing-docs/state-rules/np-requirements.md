@@ -1,98 +1,34 @@
-# NP Licensing Requirements
+# NP Licensing Requirements by State
 
-State-by-state requirements for Nurse Practitioners (APRN / FNP / PMHNP) practicing under Fountain Vitality's telehealth platform.
+## Compact States (eNLC)
 
-## General NP Licensing Notes
+Nurse Practitioners holding an active eNLC compact license may practice in any eNLC member state without obtaining an additional state license.
 
-- Most states require a **full state license** for the NP to prescribe and practice
-- Some states have an **APRN Compact** — verify whether the state is a compact member
-- Fountain's NPs typically hold **FNP** or **PMHNP** certifications (ANCC or AANP)
-- **Collaborating physician agreements** may be required in some states — check scope of practice laws
+**Key requirement:** Home state must be an eNLC compact state. Compact privileges are automatic for member states.
 
-## APRN Compact States
-
-As of 2025, the following states have enacted the APRN Compact (verify current status):
-- _Check NCSBN.org for the current list_
+**Current eNLC states:** AL, AZ, AR, CO, DE, FL, GA, ID, IN, IA, KS, KY, LA, ME, MD, MS, MO, MT, NE, NH, NJ, NM, NC, ND, OH, OK, OR, SC, SD, TN, TX, UT, VA, WA, WV, WI, WY
 
 ---
 
-## State Entries
+## Non-Compact States
 
-### Florida
-- **Board:** Florida Board of Nursing (FLBN)
-- **License Type:** Advanced Practice Registered Nurse (APRN)
-- **Application Portal:** [floridasnursing.gov](https://floridasnursing.gov)
-- **Fee:** ~$100 initial | ~$65 renewal
-- **Renewal Cycle:** Every 2 years (odd years)
-- **CE Required:** 24 hours (includes 2 hours of prevention of medical errors, 2 hours HIV/AIDS for initial)
-- **Prescriptive Authority:** Separate application required — Autonomous Practice or Protocol-Based
-- **Notes:** Florida allows full autonomous practice for APRNs as of 2023 (SB 1058). No supervising physician required.
+Non-compact states require a full individual state application. Process varies by state but generally includes:
 
----
-
-### Texas
-- **Board:** Texas Board of Nursing (TXBON)
-- **License Type:** Advanced Practice Registered Nurse (APRN)
-- **Application Portal:** [bon.texas.gov](https://bon.texas.gov)
-- **Fee:** ~$150 initial | ~$100 renewal
-- **Renewal Cycle:** Every 2 years
-- **CE Required:** 20 hours per renewal period
-- **Prescriptive Authority:** Requires a Prescriptive Authority Agreement (PAA) with a supervising/delegating physician
-- **Notes:** Texas is a collaborative practice state. PAA must be on file and renewed. Verify current delegating physician.
+1. Verify education transcripts with state board
+2. Submit state application + fee
+3. Provide proof of active national certification (ANCC, AANP, etc.)
+4. Obtain state-specific Collaborative Practice Agreement (CPA) if required
+5. Apply for state Controlled Substance Registration (CSR) if required
+6. Register with state PMP
 
 ---
 
-### Georgia
-- **Board:** Georgia Board of Nursing (GABN)
-- **License Type:** Advanced Practice Registered Nurse (APRN)
-- **Application Portal:** [sos.ga.gov](https://sos.ga.gov/index.php/licensing/plb/45)
-- **Fee:** ~$75 initial | ~$60 renewal
-- **Renewal Cycle:** Every 2 years (odd years)
-- **CE Required:** 30 hours
-- **Prescriptive Authority:** Requires a protocol agreement with a delegating physician
-- **Notes:** Collaborative practice required. Confirm delegating physician agreement is current.
+## Prescriptive Authority
 
----
+| Practice Type | Description |
+|---|---|
+| Full Practice Authority (FPA) | NP can independently prescribe without physician oversight |
+| Reduced / Restricted | CPA with collaborating physician required |
+| Supervised | Physician supervision required on-site or by agreement |
 
-### Tennessee
-- **Board:** Tennessee Board of Nursing
-- **License Type:** Advanced Practice Nurse (APN)
-- **Application Portal:** [tn.gov/health](https://www.tn.gov/health/health-program-areas/health-professional-boards/nursing-board.html)
-- **Fee:** ~$100 initial | ~$75 renewal
-- **Renewal Cycle:** Every 2 years
-- **CE Required:** 30 hours
-- **Prescriptive Authority:** Requires a collaborative agreement
-
----
-
-### Arizona
-- **Board:** Arizona State Board of Nursing (AZBN)
-- **License Type:** Registered Nurse Practitioner (RNP)
-- **Application Portal:** [azbn.gov](https://www.azbn.gov)
-- **Fee:** ~$150 initial | ~$100 renewal
-- **Renewal Cycle:** Every 2 years (even years)
-- **CE Required:** 30 hours
-- **Prescriptive Authority:** Independent practice — no supervising physician required
-- **Notes:** Full practice authority state.
-
----
-
-> 📌 **Add additional states below as Fountain expands.** Use the template format above.
-
----
-
-## State Entry Template
-
-Copy this block when adding a new state:
-
-```
-### [State Name]
-- **Board:** [Board name and abbreviation]
-- **License Type:** [Title used in this state]
-- **Application Portal:** [URL]
-- **Fee:** [Initial fee] | [Renewal fee]
-- **Renewal Cycle:** [Every X years, which years]
-- **CE Required:** [Hours and any specific topic requirements]
-- **Prescriptive Authority:** [Independent / Collaborative / Protocol-based]
-- **Notes:** [Any state-specific nuances]
-```
+See [CPA Tracker](../trackers/cpa-tracker.md) for current CPA status by provider and state.

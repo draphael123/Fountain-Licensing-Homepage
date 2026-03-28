@@ -1,40 +1,45 @@
-# State Requirements Matrix
+# State Licensing Matrix
 
-Quick-reference table for all states Fountain Vitality currently operates in or is expanding to. Update this table as new states are added.
+Overview of all active states — provider coverage, service availability, and compact status.
 
-> **Compact Key:** eNLC = Enhanced Nurse Licensure Compact | IMLC = Interstate Medical Licensure Compact | APRN Compact = NP multi-state compact
-
-## Active States
-
-| State | NP License | MD/DO License | RN License | CSR Required | DEA Required | Telehealth Notes |
-|---|---|---|---|---|---|---|
-| Florida | Full APRN | Full MD/DO | eNLC Member | Yes | Yes | No separate TH registration |
-| Texas | Full APRN | IMLC Eligible | eNLC Member | Yes | Yes | Telehealth registration required for out-of-state |
-| Georgia | Full APRN | Full MD/DO | eNLC Member | Yes | Yes | |
-| Tennessee | Full APRN | IMLC Eligible | eNLC Member | Yes | Yes | |
-| Arizona | Full APRN | IMLC Eligible | eNLC Member | Yes | Yes | |
-| Colorado | Full APRN | IMLC Eligible | eNLC Member | Yes | Yes | |
-| North Carolina | Full APRN | IMLC Eligible | eNLC Member | Yes | Yes | |
-| Virginia | Full APRN | IMLC Eligible | eNLC Member | Yes | Yes | |
-| Ohio | Full APRN | IMLC Eligible | eNLC Member | Yes | Yes | |
-| Indiana | Full APRN | IMLC Eligible | eNLC Member | Yes | Yes | |
-
-> ⚠️ This matrix is a starting point. Verify current requirements on each state board website before submitting any application.
-
-## States in Progress / Pipeline
-
-| State | Status | Owner | Target Date |
-|---|---|---|---|
-| _Add state_ | Researching | | |
-
-## States NOT Operated In
-
-List states Fountain has explicitly decided not to expand to, with reason (legal, market, complexity, etc.).
-
-| State | Reason | Notes |
-|---|---|---|
-| _Add state_ | | |
+| State | # Providers Licensed | TRT | HRT | GLP |
+|---|---|---|---|---|
+| California | 14 | Promoting | Promoting | Open |
+| New York | 13 | Promoting | Open | Open |
+| Texas | 14 | Promoting | Promoting | Open |
+| Florida | 16 | Promoting | Promoting | Open |
+| Pennsylvania | 9 | Open | Pending Expansion | Open |
+| Illinois | 10 | Promoting | Pending Expansion | Open |
+| Ohio | 12 | Promoting | Promoting | Open |
+| Georgia | 7 | Closed | Closed | Closed |
+| North Carolina | 11 | Promoting | Pending Expansion | Open |
+| Michigan | 10 | Promoting | Promoting | Open |
+| New Jersey | 8 | Promoting | Open | Open |
+| Virginia | 13 | Promoting | Promoting | Open |
+| Washington | 10 | Promoting | Promoting | Open |
+| Arizona | 12 | Promoting | Promoting | Open |
+| Massachusetts | 3 | Pending Expansion | Pending Expansion | Closed |
+| Tennessee | 5 | Closed | Closed | Closed |
+| Indiana | 9 | Promoting | Pending Expansion | Open |
+| Missouri | 7 | Closed | Closed | Closed |
+| Maryland | 7 | Promoting | Promoting | Open |
+| Wisconsin | 8 | Open | Closed | Open |
+| Colorado | 11 | Promoting | Closed | Open |
+| Minnesota | 8 | Closed | Closed | Closed |
+| South Carolina | 3 | Closed | Closed | Closed |
+| Alabama | 3 | Closed | Closed | Closed |
+| Louisiana | 3 | Closed | Closed | Closed |
+| Kentucky | 8 | Closed | Closed | Open |
+| Oregon | 7 | Pending Expansion | Closed | Closed |
+| Oklahoma | 3 | Closed | Closed | Closed |
+| Connecticut | 4 | Closed | Closed | Open |
+| Puerto Rico | 0 | Closed | Closed | Closed |
+| Utah | 7 | Closed | Closed | Closed |
+| Iowa | 8 | Promoting | Closed | Open |
+| Arkansas | 4 | Closed | Closed | Closed |
+| Mississippi | 1 | Closed | Closed | Closed |
+| Kansas | 5 | Closed | Closed | Closed |
 
 ---
 
-*Matrix last reviewed: March 2026*
+> Source: Licensing by State (All) tab — Provider & Compliance Dashboard, March 2026

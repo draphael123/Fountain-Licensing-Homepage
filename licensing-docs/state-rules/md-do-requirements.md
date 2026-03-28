@@ -1,89 +1,35 @@
-# MD / DO Licensing Requirements
+# MD/DO Licensing Requirements by State
 
-State-by-state requirements for Physicians (MD and DO) practicing under Fountain Vitality's telehealth platform.
+## IMLC (Interstate Medical Licensure Compact)
 
-## General MD/DO Licensing Notes
+Physicians eligible for IMLC can obtain expedited licensure in member states.
 
-- Full state medical licenses are required for MDs and DOs to prescribe in each state
-- **IMLC (Interstate Medical Licensure Compact)** allows expedited licensure in member states — confirm eligibility before applying the traditional route
-- IMLC requires the physician to designate a **State of Principal License (SPL)**
-- Physicians must hold a valid **DEA registration** in each state where they prescribe controlled substances
+**Eligibility requirements:**
+- Hold a full, unrestricted license in a principal state of licensure
+- No disciplinary actions, criminal convictions, or controlled substance violations
+- Board certification or 3 years of postgraduate training
 
-## IMLC Member States
-
-Check [imlcc.org](https://www.imlcc.org/a-faster-pathway-to-physician-licensure/) for the current full list of IMLC member states. As of 2025, 40+ states participate.
-
-**IMLC Expedited Process:**
-1. Confirm state is IMLC member
-2. Apply via IMLC portal (imlcc.org)
-3. Designate SPL state
-4. Typical processing: 30–60 days vs. 3–6 months standard
+**Current IMLC member states:** AL, AZ, CO, DE, GA, ID, IA, IL, IN, KS, KY, ME, MD, MI, MN, MS, MT, NE, NV, NH, NJ, NM, ND, OH, OK, OR, PA, SD, TN, TX, UT, VT, WA, WV, WI, WY, DC, Guam
 
 ---
 
-## State Entries
+## Standard Application Process
 
-### Florida
-- **Board:** Florida Board of Medicine (FLBOM)
-- **License Type:** Physician License (MD) / Osteopathic Physician (DO — separate board)
-- **Application Portal:** [flhealthsource.gov](https://flhealthsource.gov)
-- **Fee:** ~$505 initial | ~$255 renewal
-- **Renewal Cycle:** Every 2 years (odd years for MD, even for DO)
-- **CE Required:** 40 hours (includes specific topics: domestic violence, opioid prescribing, medical errors)
-- **IMLC Member:** Yes
-- **Notes:** DO licenses handled by Florida Board of Osteopathic Medicine — separate process.
+1. Verify medical school credentials via FCVS (Federation Credentials Verification Service)
+2. Submit state medical board application + fee
+3. Provide proof of malpractice insurance
+4. Complete state-specific CME requirements
+5. Obtain DEA registration for each state (or use federal DEA with state CSR)
+6. Register with state PMP
 
 ---
 
-### Texas
-- **Board:** Texas Medical Board (TMB)
-- **License Type:** Physician License
-- **Application Portal:** [tmb.state.tx.us](https://www.tmb.state.tx.us)
-- **Fee:** ~$700 initial | ~$400 renewal
-- **Renewal Cycle:** Every 2 years
-- **CE Required:** 48 hours per 2-year period
-- **IMLC Member:** Yes
-- **Notes:** Texas requires a detailed application with background check, exam scores, and training verification. Allow 90+ days for initial.
+## Fountain Physicians
 
----
-
-### Georgia
-- **Board:** Georgia Composite Medical Board (GCMB)
-- **License Type:** Physician License
-- **Application Portal:** [medicalboard.georgia.gov](https://medicalboard.georgia.gov)
-- **Fee:** ~$300 initial | ~$200 renewal
-- **Renewal Cycle:** Every 2 years (odd years)
-- **CE Required:** 40 hours
-- **IMLC Member:** Yes
-
----
-
-### Arizona
-- **Board:** Arizona Medical Board (AZMD) / Arizona Board of Osteopathic Examiners (AZOE)
-- **License Type:** Physician License
-- **Application Portal:** [azmd.gov](https://www.azmd.gov)
-- **Fee:** ~$500 initial | ~$500 renewal
-- **Renewal Cycle:** Every 2 years (even years)
-- **CE Required:** 40 hours
-- **IMLC Member:** Yes
-- **Notes:** Full practice authority state. DOs apply to AZOE separately.
-
----
-
-> 📌 **Add additional states below as Fountain expands.** Use the template format below.
-
----
-
-## State Entry Template
-
-```
-### [State Name]
-- **Board:** [Board name and abbreviation]
-- **License Type:** [MD / DO — note if separate boards]
-- **Application Portal:** [URL]
-- **Fee:** [Initial] | [Renewal]
-- **Renewal Cycle:** [Every X years, which years]
-- **CE Required:** [Hours and required topics]
-- **IMLC Member:** [Yes / No]
-- **Notes:** [State-specific nuances, timeline estimates]
-```
+| Provider | Credential | States Licensed |
+|---|---|---|
+| Doron Stember | MD | See [Doron Stember profile](../providers/doron_stember_md.md) |
+| Emmanuel Sonaike | MD | See [Emmanuel Sonaike profile](../providers/emmanuel_sonaike_md.md) |
+| Catherine Herrington | MD | See [Catherine Herrington profile](../providers/catherine_h_md.md) |
+| Naureen Majid Adam | MD | See [Naureen Majid Adam profile](../providers/naureen_majid_adam_-_md.md) |
+| Tzvi Doron | DO | See [Tzvi Doron profile](../providers/tzvi_d_do.md) |

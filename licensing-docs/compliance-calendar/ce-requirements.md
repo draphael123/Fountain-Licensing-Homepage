@@ -1,81 +1,51 @@
 # CE Requirements by State & Credential
 
-Continuing Education (CE) requirements for each state and credential type. Providers must complete CE before license renewal.
+## Overview
 
-## Verification Tool
-Fountain uses **CE Broker** as the primary CE tracking platform. All providers should have a CE Broker account linked to their license(s).
-
----
-
-## NP / APRN CE Requirements
-
-| State | Hours Required | Renewal Cycle | Mandatory Topics | CE Broker Supported |
-|---|---|---|---|---|
-| Florida | 24 hours | Every 2 years | 2 hrs medical errors prevention; 2 hrs HIV/AIDS (initial only); opioid prescribing | ✅ Yes |
-| Texas | 20 hours | Every 2 years | Jurisprudence exam (separate from CE) | ✅ Yes |
-| Georgia | 30 hours | Every 2 years | None mandated | ✅ Yes |
-| Tennessee | 30 hours | Every 2 years | None mandated | ✅ Yes |
-| Arizona | 30 hours | Every 2 years | None mandated | ✅ Yes |
-| Colorado | 30 hours | Every 2 years | None mandated | Check state board |
-| North Carolina | 30 hours | Every 2 years | None mandated | Check state board |
-| Virginia | 30 hours | Every 2 years | None mandated | Check state board |
-| Ohio | 24 hours | Every 2 years | None mandated | Check state board |
-| Indiana | 20 hours | Every 2 years | None mandated | Check state board |
+Continuing education (CE) requirements vary significantly by state and credential type. Use the [CEU Tracker](https://ceu-tracker.vercel.app/) to monitor completion status for all active providers.
 
 ---
 
-## MD / DO CE Requirements
+## NP CE Requirements (Selected States)
 
-| State | Hours Required | Renewal Cycle | Mandatory Topics | CE Broker Supported |
-|---|---|---|---|---|
-| Florida | 40 hours | Every 2 years | 2 hrs domestic violence; 2 hrs prevention of medical errors; 2 hrs opioid prescribing | ✅ Yes |
-| Texas | 48 hours | Every 2 years | Ethics | ✅ Yes |
-| Georgia | 40 hours | Every 2 years | None mandated | Check state board |
-| Tennessee | 40 hours | Every 2 years | None mandated | Check state board |
-| Arizona | 40 hours | Every 2 years | None mandated | Check state board |
-
----
-
-## RN CE Requirements
-
-| State | Hours Required | Renewal Cycle | Mandatory Topics | CE Broker Supported |
-|---|---|---|---|---|
-| Florida | 24 hours | Every 2 years | 2 hrs medical errors prevention; 2 hrs HIV/AIDS (initial) | ✅ Yes |
-| Texas | 20 hours | Every 2 years | None mandated | ✅ Yes |
-| Georgia | 30 hours | Every 2 years | None mandated | ✅ Yes |
-
-> eNLC states: CE is required in the **home state** only, not for each compact state.
-
----
-
-## ANCC / AANP Certification Renewal
-
-NP certifications (e.g., FNP-BC, PMHNP-BC) must be renewed every 5 years.
-
-| Certification | Renewal Requirement | CE Hours | Practice Hours | Options |
-|---|---|---|---|---|
-| FNP-BC (ANCC) | Every 5 years | 75 CE hours (pharmacology: 25 hrs) | 1,000 practice hours | CE or Re-examination |
-| FNP-C (AANP) | Every 5 years | 75 CE hours | 1,000 practice hours | CE or Re-examination |
-| PMHNP-BC (ANCC) | Every 5 years | 75 CE hours (pharmacology: 25 hrs) | 1,000 practice hours | CE or Re-examination |
+| State | Hours / Cycle | Cycle Length | Special Requirements |
+|---|---|---|---|
+| Alabama | 25 hours | 2 years | Pharmacology required |
+| Arizona | 30 hours | 2 years | None |
+| Arkansas | 30 hours | 2 years | Opioid CE required |
+| California | 30 hours | 2 years | Pain management, end-of-life |
+| Colorado | 30 hours | 2 years | None |
+| Florida | 24 hours | 2 years | 2hr HIV, 2hr domestic violence |
+| Georgia | 30 hours | 2 years | None |
+| Illinois | 20 hours | 2 years | None |
+| Indiana | 30 hours | 2 years | None |
+| Kansas | 30 hours | 2 years | None |
+| Kentucky | 30 hours | 2 years | None |
+| Louisiana | 30 hours | 2 years | None |
+| Maryland | 30 hours | 2 years | None |
+| Mississippi | 30 hours | 2 years | None |
+| Missouri | 30 hours | 2 years | None |
+| Nebraska | 20 hours | 2 years | None |
+| New Jersey | 30 hours | 2 years | None |
+| North Carolina | 30 hours | 2 years | Opioid education required |
+| Ohio | 24 hours | 2 years | None |
+| Oklahoma | 25 hours | 2 years | None |
+| South Carolina | 30 hours | 2 years | None |
+| Tennessee | 30 hours | 2 years | Opioid CE required |
+| Texas | 20 hours | 2 years | 2hr jurisprudence |
+| Virginia | 30 hours | 2 years | None |
+| West Virginia | 30 hours | 2 years | None |
 
 ---
 
-## CE Resources
+## MD/DO CME Requirements (Selected States)
 
-Recommended CE platforms for Fountain providers:
-
-| Platform | Best For | Cost |
-|---|---|---|
-| CE Broker | Tracking & reporting | Free for basic; paid plans available |
-| ANCC Learning | ANCC certification CE | Varies |
-| Medscape CME | MD/DO CME | Free |
-| Relias | NP/RN CE | Subscription |
-| UpToDate | CME credit for physicians | Subscription |
+| State | Hours / Cycle | Cycle Length | Notes |
+|---|---|---|---|
+| Most states | 50 hours | 2 years | AMA PRA Category 1 preferred |
+| Florida | 40 hours | 2 years | 2hr domestic violence, 2hr opioid |
+| Texas | 48 hours | 2 years | 12hr ethics required |
 
 ---
 
-> ⚠️ CE requirements are updated by boards periodically. Always verify current requirements directly on the state board website before a renewal cycle.
-
----
-
-*Requirements last verified: March 2026*
+> Use [CE Broker](https://ce-broker.com) to verify completion for FL, GA, SC, VA, and other supported states.

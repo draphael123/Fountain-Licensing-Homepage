@@ -1,28 +1,13 @@
 # SOPs & Workflows
 
-Standard Operating Procedures for the Fountain Vitality Licensing Team. These documents define the step-by-step processes for all licensing activities.
+Standard operating procedures for all licensing and compliance workflows.
 
-## Why SOPs Matter
-
-Consistent, documented processes ensure:
-- No steps are missed during applications or renewals
-- Faster onboarding for new licensing team members
-- Audit-ready documentation trail
-- Reduced errors and re-work
-
-## Available SOPs
-
-| SOP | When to Use |
+| SOP | Description |
 |---|---|
-| [New License Application](new-license-application.md) | New provider joining Fountain needs a license in a state |
-| [License Renewal](license-renewal.md) | Existing license approaching expiration |
-| [CSR Application](csr-application.md) | Provider needs a new Controlled Substance Registration in a state |
-| [DEA Registration](dea-registration.md) | Provider needs a new DEA number for a state |
-| [Compact License (eNLC / IMLC)](compact-license.md) | Provider qualifies for expedited compact licensure |
-
-## General Workflow Principles
-
-1. **Lead time:** Begin applications **90 days before** needed date for new licenses; **60 days before** expiration for renewals
-2. **System of record:** All license activity is tracked in the Notion Provider & Compliance Dashboard
-3. **Communication:** Notify Daniel Raphael when a license is submitted, approved, or flagged for issues
-4. **Documents:** All issued licenses should be saved to the provider's DocuSign/Drive folder and updated in Notion
+| [New License Application](new-license-application.md) | Applying for a new state license |
+| [License Renewal](license-renewal.md) | Renewing an existing license |
+| [CSR Application](csr-application.md) | State controlled substance registration |
+| [DEA Registration](dea-registration.md) | Federal DEA registration and renewal |
+| [Compact License](compact-license.md) | eNLC and IMLC compact licensing |
+| [Provider Onboarding](provider-onboarding.md) | End-to-end onboarding checklist |
+| [Provider Offboarding](provider-offboarding.md) | End-to-end offboarding checklist |
