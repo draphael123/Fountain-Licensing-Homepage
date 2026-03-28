@@ -12,6 +12,9 @@
 | **Services** | — |
 | **Contract Start** | 11/08/2023 |
 
+{% hint style="danger" %}
+🔴 **1 license expired** — NY NP (02/28/2026, ⚠️ unassigned). Escalate to CCOO/CMO immediately.
+{% endhint %}
 
 ---
 

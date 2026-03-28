@@ -1,59 +1,81 @@
 # 🔄 License Renewal Tracker
 
-{% hint style="warning" %}
-🔴 **18 expired/urgent** · 🟡 **0 expiring within 90 days**
+{% hint style="info" %}
+**90-day rule:** Start renewal as soon as a license hits 🟡. Escalate to Daniel at 🔴 30 days. Escalate to CCOO/CMO if expired.
 {% endhint %}
 
+{% tabs %}
+{% tab title="🔴 Expired (18)" %}
+
+{% hint style="danger" %}
+All 18 licenses below are **past expiration**. Any row with "—" in Assigned needs immediate owner escalation to CCOO/CMO.
+{% endhint %}
+
+| Provider | State | Type | Expired | Renewal Status | Assigned |
+|---|---|---|---|---|---|
+| **Doron S** | MO | MD | 01/31/2026 | sent for review | Tammy |
+| **Alexis F-H** | KS | RN | 01/31/2026 | — | Ashley |
+| **Alexis F-H** | KS | NP | 01/31/2026 | — | Ashley |
+| **Alexis F-H** | TX | NP | 01/31/2026 | — | ⚠️ Unassigned |
+| **Martin V** | WA | NP | 02/05/2026 | — | Tammy |
+| **Shelby B** | MA | RN | 02/14/2026 | — | Faith |
+| **Shelby B** | OR | RN | 02/14/2026 | — | Faith |
+| **Doron S** | CT | DEA | 02/28/2026 | — | Tammy |
+| **Doron S** | KY | MD | 02/28/2026 | — | ⚠️ Unassigned |
+| **Doron S** | TX | MD | 02/28/2026 | — | ⚠️ Unassigned |
+| **Martin V** | ID | NP | 02/28/2026 | — | ⚠️ Unassigned |
+| **Martin V** | MI | RN | 02/28/2026 | — | ⚠️ Unassigned |
+| **Martin V** | MI | NP | 02/28/2026 | — | ⚠️ Unassigned |
+| **Martin V** | NC | NP | 02/28/2026 | — | ⚠️ Unassigned |
+| **Martin V** | MN | RN | 02/28/2026 | — | ⚠️ Unassigned |
+| **Martin V** | MN | NP | 02/28/2026 | — | ⚠️ Unassigned |
+| **Summer D** | NY | NP | 02/28/2026 | — | ⚠️ Unassigned |
+| **Tzvi D** | TX | DO | 02/28/2026 | — | Ashley |
+
+{% endtab %}
+{% tab title="⏳ Pending (21)" %}
 
 {% hint style="info" %}
-**90-day rule:** Start renewal as soon as a license hits 🟡 status. Escalate to Daniel Raphael at 🔴 30 days. Escalate to CCOO/CMO if expired.
+These applications have been submitted or are in progress. Monitor weekly.
 {% endhint %}
 
+| Provider | State | Type | Renewal Status | Assigned |
+|---|---|---|---|---|
+| **Tzvi D** | NC | DO | submitted | Tammy |
+| **Tzvi D** | NJ | DO | submitted | Ashley |
+| **Tzvi D** | WA | DO | submitted | Tammy |
+| **Tzvi D** | AZ | DO | sent for review | Ashley |
+| **Tzvi D** | CT | DO | — | ⚠️ Unassigned |
+| **Tzvi D** | ID | DO | — | ⚠️ Unassigned |
+| **Tzvi D** | IN | DO | — | Tammy |
+| **Tzvi D** | KY | DO | — | ⚠️ Unassigned |
+| **Tzvi D** | LA | DO | — | ⚠️ Unassigned |
+| **Tzvi D** | MS | DO | — | ⚠️ Unassigned |
+| **Tzvi D** | MT | DO | — | Ashley |
+| **Tzvi D** | NV | DO | — | ⚠️ Unassigned |
+| **Tzvi D** | NH | DO | — | ⚠️ Unassigned |
+| **Tzvi D** | ND | DO | — | Tammy |
+| **Tzvi D** | OK | DO | — | ⚠️ Unassigned |
+| **Tzvi D** | RI | DO | — | ⚠️ Unassigned |
+| **Tzvi D** | UT | DO | — | ⚠️ Unassigned |
+| **Tzvi D** | WV | DO | — | Ashley |
+| **Tzvi D** | WY | DO | — | ⚠️ Unassigned |
+| **Tzvi D** | KY | DO | — | ⚠️ Unassigned |
+| **Tzvi D** | LA | DO | — | ⚠️ Unassigned |
 
-| Provider | State | License Type | Expiration | Status | Renewal Status | Assigned To |
-|---|---|---|---|:---:|---|---|
-| **Doron S** | MO | MD | 01/31/2026 | 🔴 Expired | sent for review | Tammy |
-| **Alexis F-H** | KS | RN | 01/31/2026 | 🔴 Expired | — | Ashley |
-| **Alexis F-H** | KS | NP | 01/31/2026 | 🔴 Expired | — | Ashley |
-| **Alexis F-H** | TX | NP | 01/31/2026 | 🔴 Expired | — | — |
-| **Martin V** | WA | NP | 02/05/2026 | 🔴 Expired | — | Tammy |
-| **Shelby B** | MASS | RN | 02/14/2026 | 🔴 Expired | — | Faith, provider |
-| **Shelby B** | OR | RN | 02/14/2026 | 🔴 Expired | — | Faith, provider |
-| **Doron S** | CT | DEA | 02/28/2026 | 🔴 Expired | — | Tammy |
-| **Doron S** | KY | MD | 02/28/2026 | 🔴 Expired | — | — |
-| **Doron S** | TX | MD | 02/28/2026 | 🔴 Expired | — | — |
-| **Martin V** | ID | NP | 02/28/2026 | 🔴 Expired | — | — |
-| **Martin V** | Mi | RN | 02/28/2026 | 🔴 Expired | — | — |
-| **Martin V** | MI | NP | 02/28/2026 | 🔴 Expired | — | — |
-| **Martin V** | NC | NP | 02/28/2026 | 🔴 Expired | — | — |
-| **Martin V** | MN | RN | 02/28/2026 | 🔴 Expired | — | — |
-| **Martin V** | MN | NP | 02/28/2026 | 🔴 Expired | — | — |
-| **Summer D** | NY | NP | 02/28/2026 | 🔴 Expired | — | — |
-| **Tzvi D** | TX | DO | 02/28/2026 | 🔴 Expired | — | Ashley |
-| **Tzvi D** | NC | DO |  | ⏳ Pending | submitted | Tammy |
-| **Tzvi D** | NJ | DO |  | ⏳ Pending | submitted | Ashley |
-| **Tzvi D** | WA | DO |  | ⏳ Pending | submitted | Tammy |
-| **Tzvi D** | AZ | DO |  | ⏳ Pending | sent for review | Ashley |
-| **Tzvi D** | CT | DO |  | ⏳ Pending | — | — |
-| **Tzvi D** | ID | DO |  | ⏳ Pending | — | — |
-| **Tzvi D** | IN | DO |  | ⏳ Pending | — | Tammy |
-| **Tzvi D** | KY | DO |  | ⏳ Pending | — | — |
-| **Tzvi D** | LA | DO |  | ⏳ Pending | — | — |
-| **Tzvi D** | MS | DO |  | ⏳ Pending | — | — |
-| **Tzvi D** | MT | DO |  | ⏳ Pending | — | Ashley |
-| **Tzvi D** | NV | DO |  | ⏳ Pending | — | — |
-| **Tzvi D** | NH | DO |  | ⏳ Pending | — | — |
-| **Tzvi D** | ND | DO |  | ⏳ Pending | — | Tammy |
-| **Tzvi D** | OK | DO |  | ⏳ Pending | — | — |
-| **Tzvi D** | RI | DO |  | ⏳ Pending | — | — |
-| **Tzvi D** | UT | DO |  | ⏳ Pending | — | — |
-| **Tzvi D** | WV | DO |  | ⏳ Pending | — | Ashley |
-| **Tzvi D** | WY | DO |  | ⏳ Pending | — | — |
-| **Tzvi D** | KY | DO |  | ⏳ Pending | — | — |
-| **Tzvi D** | LA | DO |  | ⏳ Pending | — | — |
+{% endtab %}
+{% tab title="🟢 Active" %}
 
+{% hint style="success" %}
+No renewals currently tracked as active/upcoming. All tracked licenses are either expired or pending.
+{% endhint %}
+
+When licenses are within 90 days of expiry they will appear here as 🟡 Expiring Soon before moving to the 🔴 Expired tab.
+
+{% endtab %}
+{% endtabs %}
 
 ---
 
 > 🔴 Expired or <30 days · 🟡 <90 days · 🟢 Active · ⏳ Pending
-> Source: ProviderRN Renewals tab · March 2026
+> Source: ProviderRN Renewals tab · Provider & Compliance Dashboard · March 2026

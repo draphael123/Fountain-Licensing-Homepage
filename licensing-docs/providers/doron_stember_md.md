@@ -12,6 +12,9 @@
 | **Services** | — |
 | **Contract Start** | — |
 
+{% hint style="danger" %}
+🔴 **4 licenses expired** — MO MD (01/31/2026, Tammy) · CT DEA (02/28/2026, Tammy) · KY MD (02/28/2026, ⚠️ unassigned) · TX MD (02/28/2026, ⚠️ unassigned). Escalate KY and TX to CCOO/CMO immediately.
+{% endhint %}
 
 ---
 

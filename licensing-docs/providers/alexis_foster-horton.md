@@ -12,6 +12,9 @@
 | **Services** | — |
 | **Contract Start** | 07/14/2025 |
 
+{% hint style="danger" %}
+🔴 **3 licenses expired** — KS RN (01/31/2026, Ashley) · KS NP (01/31/2026, Ashley) · TX NP (01/31/2026, ⚠️ unassigned). Escalate TX NP to CCOO/CMO immediately.
+{% endhint %}
 
 ---
 

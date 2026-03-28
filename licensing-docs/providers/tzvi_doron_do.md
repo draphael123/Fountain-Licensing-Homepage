@@ -12,6 +12,9 @@
 | **Services** | — |
 | **Contract Start** | 09/02/2025 |
 
+{% hint style="danger" %}
+🔴 **1 license expired** — TX DO (02/28/2026, Ashley). Also **21 pending applications** across NC, NJ, WA, AZ, CT, ID, IN, KY, LA, MS, MT, NV, NH, ND, OK, RI, UT, WV, WY. See [Renewal Tracker](../trackers/renewal-tracker.md) for full status.
+{% endhint %}
 
 ---
 
