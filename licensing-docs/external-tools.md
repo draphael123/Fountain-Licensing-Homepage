@@ -1,23 +1,27 @@
-# External Tools
+# 🔧 External Tools
 
-Two live monitoring tools are available to the licensing team:
+Two live monitoring tools are available to the licensing team for real-time visibility into license and CE status.
 
 ---
 
 ## 🔍 License Expiration Monitor
 
-**URL:** [https://license-expiration-monitor-v2-3ykw-kbikc243m.vercel.app/](https://license-expiration-monitor-v2-3ykw-kbikc243m.vercel.app/)
+{{% hint style="info" %}}
+**Best used for:** Daily monitoring · Prioritizing the renewal workload · Spotting expiring licenses at a glance
+{{% endhint %}}
 
-Tracks expiration dates across all active provider licenses and sends automated alerts when licenses are approaching expiration. Displays a real-time dashboard showing 🔴 expired, 🟡 expiring soon, and 🟢 active licenses across all providers and states.
+**→** [https://license-expiration-monitor-v2-3ykw-kbikc243m.vercel.app/](https://license-expiration-monitor-v2-3ykw-kbikc243m.vercel.app/)
 
-Use this tool for daily monitoring and to prioritize renewal workload.
+Tracks expiration dates across all active provider licenses and displays a real-time dashboard. Color-coded status: 🔴 expired, 🟡 expiring soon, 🟢 active — across all providers and states.
 
 ---
 
 ## 📚 CEU Tracker
 
-**URL:** [https://ceu-tracker.vercel.app/](https://ceu-tracker.vercel.app/)
+{{% hint style="info" %}}
+**Best used for:** Verifying CE completion before submitting renewal applications
+{{% endhint %}}
 
-Tracks continuing education unit (CEU) completion status for each provider by state and credential type. Helps the team ensure CE requirements are met before license renewal deadlines.
+**→** [https://ceu-tracker.vercel.app/](https://ceu-tracker.vercel.app/)
 
-Use this tool when preparing renewal packets to verify CE compliance.
+Tracks continuing education unit (CEU) completion status for each provider by state and credential type. Check this before preparing any renewal packet to confirm CE compliance.

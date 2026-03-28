@@ -1,34 +1,40 @@
-# SOP: License Renewal
+# 🔁 License Renewal
 
 **Owner:** Ashley Gwinn / Licensing Team
-**Trigger:** License expiring within 90 days (🟡 alert from License Expiration Monitor)
+**Trigger:** 🟡 90-day alert from [License Expiration Monitor](https://license-expiration-monitor-v2-3ykw-kbikc243m.vercel.app/)
 
 ---
 
-## Steps
+## Phase 1 — 90-Day Alert
 
-### 1. 90-Day Alert
-- [ ] License Expiration Monitor flags license as 🟡 (90 days or less)
+- [ ] License Expiration Monitor flags 🟡 status
 - [ ] Create renewal task in Provider & Compliance Dashboard
 - [ ] Notify provider of upcoming renewal
 
-### 2. CE Verification (if required)
-- [ ] Check [CEU Tracker](https://ceu-tracker.vercel.app/) for CE completion status
-- [ ] If CE hours are incomplete, notify provider immediately
-- [ ] Confirm CE hours meet state-specific requirements (see [CE Requirements](../compliance-calendar/ce-requirements.md))
+## Phase 2 — CE Verification
 
-### 3. Renewal Submission
-- [ ] Log into state board portal (see [Board Directory](../reference/board-directory.md))
+{{% hint style="warning" %}}
+CE must be complete before submitting renewal. Check [CEU Tracker](https://ceu-tracker.vercel.app/) first.
+{{% endhint %}}
+
+- [ ] Verify CE completion in [CEU Tracker](https://ceu-tracker.vercel.app/)
+- [ ] Cross-check against [CE Requirements](../trackers/ce-requirements.md)
+- [ ] If CE incomplete → notify provider immediately and set hard deadline
+
+## Phase 3 — Submit Renewal
+
+- [ ] Log into state board portal → [Board Directory](../reference/board-directory.md)
 - [ ] Complete renewal application
-- [ ] Pay renewal fee (see [Fee Reference Table](../reference/fee-table.md))
+- [ ] Pay renewal fee → [Fee Table](../reference/fee-table.md)
 - [ ] Upload CE certificates if required
-- [ ] Note confirmation number in Provider & Compliance Dashboard
+- [ ] Record confirmation number in Provider & Compliance Dashboard
 
-### 4. Confirmation
+## Phase 4 — Confirm & Close
+
 - [ ] Update Provider & Compliance Dashboard with new expiration date
 - [ ] Update License Expiration Monitor
-- [ ] File renewal confirmation in provider's Drive folder
+- [ ] File confirmation in provider's Drive folder
 
----
-
-**30-Day Escalation:** If renewal is not confirmed within 30 days of expiration, escalate to Daniel Raphael and notify CMO.
+{{% hint style="danger" %}}
+**Escalation:** If not confirmed within 30 days of expiration → escalate to Daniel Raphael. If expired → immediate escalation to CCOO/CMO. Provider must stop seeing patients in that state.
+{{% endhint %}}

@@ -1,14 +1,24 @@
 # Alexis Foster-Horton
 
-**Credential:** NP &nbsp;|&nbsp; **NPI:** `` &nbsp;|&nbsp; **Email:** alexis.foster-horton@fountain.net
-**Services:** — &nbsp;|&nbsp; **Contract Start:** 07/14/2025
+[← Provider Index](README.md)
 
 ---
 
-## Licenses & Certifications
+| Field | Value |
+|---|---|
+| **Credential** | NP |
+| **NPI** | `` |
+| **Email** | alexis.foster-horton@fountain.net |
+| **Services** | — |
+| **Contract Start** | 07/14/2025 |
+
+
+---
+
+## 📋 Licenses & Certifications
 
 | Type | License # | Issued | Expires | Status | Notes |
-|---|---|---|---|---|---|
+|---|---|---|---|:---:|---|
 | ANCC | `2022007504` | 04/14/2022 | 04/13/2027 | 🟢 Active | — |
 | KS DEA# | `MF8086109` | 06/14/2023 | 09/30/2026 | 🟢 Active | — |
 | ***KS RN | `14-153989-012` | 03/03/2021 | 01/31/2028 | 🟢 Active | <---- MSL |
@@ -24,25 +34,29 @@
 
 ---
 
-## DEA Registrations
+## 💊 DEA Registrations
 
 | State | DEA Number | Expiration | Status |
-|---|---|---|---|
-| KS | `MF8086109` | 09/30/2026 | 🟢 Active |
+|---|---|---|:---:|
+| **KS** | `MF8086109` | 09/30/2026 | 🟢 Active |
 
 
 ---
 
-## Redacted Fields
+## 🔒 Redacted Fields
 
-The following fields are available in the Provider & Compliance Dashboard (restricted access):
+{% hint style="warning" %}
+The following fields are available in the Provider & Compliance Dashboard (restricted access only). They are not displayed here for security compliance.
+{% endhint %}
 
-- Home Address — ████████████
-- Personal Phone — ████████████
-- Personal Email — ████████████
-- Emergency Contact — ████████████
-- Portal Credentials — ████████████
+| Field | |
+|---|---|
+| Home Address | 🔒 Restricted |
+| Personal Phone | 🔒 Restricted |
+| Personal Email | 🔒 Restricted |
+| Emergency Contact | 🔒 Restricted |
+| Portal Credentials | 🔒 Restricted |
 
 ---
 
-> Profile last synced: March 2026 · [← Back to Provider Index](README.md)
+> Profile last synced: March 2026

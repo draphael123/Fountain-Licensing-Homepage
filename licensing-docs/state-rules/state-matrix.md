@@ -1,9 +1,13 @@
-# State Licensing Matrix
+# 🗺️ State Licensing Matrix
 
-Overview of all active states — provider coverage, service availability, and compact status.
+Active state coverage — provider count and service availability by state.
+
+{% hint style="info" %}
+**51 active states** · 26 providers · Source: Licensing by State (All) — March 2026
+{% endhint %}
 
 | State | # Providers Licensed | TRT | HRT | GLP |
-|---|---|---|---|---|
+|---|:---:|---|---|---|
 | California | 14 | Promoting | Promoting | Open |
 | New York | 13 | Promoting | Open | Open |
 | Texas | 14 | Promoting | Promoting | Open |
@@ -40,6 +44,7 @@ Overview of all active states — provider coverage, service availability, and c
 | Mississippi | 1 | Closed | Closed | Closed |
 | Kansas | 5 | Closed | Closed | Closed |
 
+
 ---
 
-> Source: Licensing by State (All) tab — Provider & Compliance Dashboard, March 2026
+[← State Rules Overview](README.md)

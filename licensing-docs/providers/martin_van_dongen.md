@@ -1,14 +1,27 @@
 # Martin Van Dongen
 
-**Credential:** NP &nbsp;|&nbsp; **NPI:** `` &nbsp;|&nbsp; **Email:** martin@fountain.net
-**Services:** — &nbsp;|&nbsp; **Contract Start:** 03/25/2024
+[← Provider Index](README.md)
 
 ---
 
-## Licenses & Certifications
+| Field | Value |
+|---|---|
+| **Credential** | NP |
+| **NPI** | `` |
+| **Email** | martin@fountain.net |
+| **Services** | — |
+| **Contract Start** | 03/25/2024 |
+
+{{% hint style="danger" %}}
+🔴 **This provider has one or more licenses expiring within 30 days.** Review the table below and initiate renewal immediately.
+{{% endhint %}}
+
+---
+
+## 📋 Licenses & Certifications
 
 | Type | License # | Issued | Expires | Status | Notes |
-|---|---|---|---|---|---|
+|---|---|---|---|:---:|---|
 | DEA FL | `MV6251817` |  | 05/31/2026 | 🟡 64d left | — |
 | AANP | `F10201354` | 10/27/2020 | 10/26/2030 | 🟢 Active | — |
 | *FL-RN | `RN9449880` | 12/23/2016 | 07/31/2026 | 🟢 Active | MSL |
@@ -41,26 +54,30 @@
 
 ---
 
-## DEA Registrations
+## 💊 DEA Registrations
 
 | State | DEA Number | Expiration | Status |
-|---|---|---|---|
-| FL | `MV6251817` | 05/31/2026 | 🟡 64d left |
-| UT | `MV0242127` | 05/31/2028 | 🟢 Active |
+|---|---|---|:---:|
+| **FL** | `MV6251817` | 05/31/2026 | 🟡 64d left |
+| **UT** | `MV0242127` | 05/31/2028 | 🟢 Active |
 
 
 ---
 
-## Redacted Fields
+## 🔒 Redacted Fields
 
-The following fields are available in the Provider & Compliance Dashboard (restricted access):
+{% hint style="warning" %}
+The following fields are available in the Provider & Compliance Dashboard (restricted access only). They are not displayed here for security compliance.
+{% endhint %}
 
-- Home Address — ████████████
-- Personal Phone — ████████████
-- Personal Email — ████████████
-- Emergency Contact — ████████████
-- Portal Credentials — ████████████
+| Field | |
+|---|---|
+| Home Address | 🔒 Restricted |
+| Personal Phone | 🔒 Restricted |
+| Personal Email | 🔒 Restricted |
+| Emergency Contact | 🔒 Restricted |
+| Portal Credentials | 🔒 Restricted |
 
 ---
 
-> Profile last synced: March 2026 · [← Back to Provider Index](README.md)
+> Profile last synced: March 2026

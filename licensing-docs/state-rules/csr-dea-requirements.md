@@ -1,23 +1,31 @@
-# CSR & DEA Requirements by State
+# 💊 CSR & DEA Requirements
 
-## DEA Registration
+## Federal DEA Registration
 
-Federal DEA registration allows prescribing controlled substances nationwide. However, many states also require a separate state **Controlled Substance Registration (CSR)**.
+A DEA number allows prescribing controlled substances federally. Renewal is every **3 years** at **$888**.
 
-**DEA Renewal:** Every 3 years. Renewal reminder sent 60 days prior by DEA.
+{{% hint style="info" %}}
+**Renewal URL:** [dea.diversion.usdoj.gov](https://www.dea.diversion.usdoj.gov/online_forms_and_applications/renewal.htm) · DEA sends a 60-day reminder automatically.
+{{% endhint %}}
 
-**Renewal URL:** [dea.diversion.usdoj.gov](https://www.dea.diversion.usdoj.gov/online_forms_and_applications/renewal.htm)
+See [DEA Tracker](../trackers/dea-tracker.md) for current registration status by provider.
 
 ---
 
-## States Requiring Separate CSR
+## State CSR Requirements
+
+Many states require a separate **Controlled Substance Registration (CSR)** in addition to the federal DEA number.
+
+{{% hint style="warning" %}}
+Always check CSR requirements **before** a provider begins prescribing in a new state. Missing CSR is a compliance violation.
+{{% endhint %}}
 
 | State | Registration Name | Notes |
 |---|---|---|
-| Alabama | Alabama CSR | Required for all Schedule II-V |
+| Alabama | Alabama CSR | Required for Schedule II–V |
 | Arkansas | Arkansas CSR | Required alongside DEA |
-| Connecticut | Connecticut CSC | Required for Schedule II-V |
-| Florida | Florida CSR | Required for all controlled substances |
+| Connecticut | Connecticut CSC | Schedule II–V |
+| Florida | Florida CSR | All controlled substances |
 | Georgia | Georgia CSR | Required |
 | Indiana | Indiana CSR | Required |
 | Kansas | Kansas CSR | Required |
@@ -36,6 +44,4 @@ Federal DEA registration allows prescribing controlled substances nationwide. Ho
 | Virginia | Virginia CSR | Required |
 | West Virginia | WV CSR | Required |
 
----
-
-See [DEA Tracker](../trackers/dea-tracker.md) for current DEA registration status by provider.
+[← State Rules Overview](README.md)

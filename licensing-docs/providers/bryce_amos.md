@@ -1,14 +1,27 @@
 # Bryce Amos
 
-**Credential:** NP &nbsp;|&nbsp; **NPI:** `` &nbsp;|&nbsp; **Email:** bryce@fountain.net
-**Services:** — &nbsp;|&nbsp; **Contract Start:** 04/11/2025
+[← Provider Index](README.md)
 
 ---
 
-## Licenses & Certifications
+| Field | Value |
+|---|---|
+| **Credential** | NP |
+| **NPI** | `` |
+| **Email** | bryce@fountain.net |
+| **Services** | — |
+| **Contract Start** | 04/11/2025 |
+
+{{% hint style="danger" %}}
+🔴 **This provider has one or more licenses expiring within 30 days.** Review the table below and initiate renewal immediately.
+{{% endhint %}}
+
+---
+
+## 📋 Licenses & Certifications
 
 | Type | License # | Issued | Expires | Status | Notes |
-|---|---|---|---|---|---|
+|---|---|---|---|:---:|---|
 | AANP | `F05210933` | 05/27/2021 | 05/26/2031 | 🟢 Active | — |
 | FL DEA | `MA6869359` |  | 06/30/2027 | 🟢 Active | — |
 | CA RN | `95416203` | 04/16/2025 | 01/31/2027 | 🟢 Active | — |
@@ -27,25 +40,29 @@
 
 ---
 
-## DEA Registrations
+## 💊 DEA Registrations
 
 | State | DEA Number | Expiration | Status |
-|---|---|---|---|
-| FL | `MA6869359` | 06/30/2027 | 🟢 Active |
+|---|---|---|:---:|
+| **FL** | `MA6869359` | 06/30/2027 | 🟢 Active |
 
 
 ---
 
-## Redacted Fields
+## 🔒 Redacted Fields
 
-The following fields are available in the Provider & Compliance Dashboard (restricted access):
+{% hint style="warning" %}
+The following fields are available in the Provider & Compliance Dashboard (restricted access only). They are not displayed here for security compliance.
+{% endhint %}
 
-- Home Address — ████████████
-- Personal Phone — ████████████
-- Personal Email — ████████████
-- Emergency Contact — ████████████
-- Portal Credentials — ████████████
+| Field | |
+|---|---|
+| Home Address | 🔒 Restricted |
+| Personal Phone | 🔒 Restricted |
+| Personal Email | 🔒 Restricted |
+| Emergency Contact | 🔒 Restricted |
+| Portal Credentials | 🔒 Restricted |
 
 ---
 
-> Profile last synced: March 2026 · [← Back to Provider Index](README.md)
+> Profile last synced: March 2026

@@ -1,14 +1,27 @@
 # Terray Humphrey
 
-**Credential:** NP &nbsp;|&nbsp; **NPI:** `` &nbsp;|&nbsp; **Email:** terray@fountain.net
-**Services:** — &nbsp;|&nbsp; **Contract Start:** 02/05/2025
+[← Provider Index](README.md)
 
 ---
 
-## Licenses & Certifications
+| Field | Value |
+|---|---|
+| **Credential** | NP |
+| **NPI** | `` |
+| **Email** | terray@fountain.net |
+| **Services** | — |
+| **Contract Start** | 02/05/2025 |
+
+{{% hint style="danger" %}}
+🔴 **This provider has one or more licenses expiring within 30 days.** Review the table below and initiate renewal immediately.
+{{% endhint %}}
+
+---
+
+## 📋 Licenses & Certifications
 
 | Type | License # | Issued | Expires | Status | Notes |
-|---|---|---|---|---|---|
+|---|---|---|---|:---:|---|
 | CA DEA | `MH4669581` |  | 10/31/2026 | 🟢 Active | HOME DEA |
 | UT DEA | `MH9741047` |  | 10/31/2027 | 🟢 Active | — |
 | AANP :Family Medicine | `F06171635` | 06/20/2017 | 06/19/2027 | 🟢 Active | — |
@@ -35,25 +48,29 @@
 
 ---
 
-## DEA Registrations
+## 💊 DEA Registrations
 
 | State | DEA Number | Expiration | Status |
-|---|---|---|---|
+|---|---|---|:---:|
 | — | — | — | No DEA data on file |
 
 
 ---
 
-## Redacted Fields
+## 🔒 Redacted Fields
 
-The following fields are available in the Provider & Compliance Dashboard (restricted access):
+{% hint style="warning" %}
+The following fields are available in the Provider & Compliance Dashboard (restricted access only). They are not displayed here for security compliance.
+{% endhint %}
 
-- Home Address — ████████████
-- Personal Phone — ████████████
-- Personal Email — ████████████
-- Emergency Contact — ████████████
-- Portal Credentials — ████████████
+| Field | |
+|---|---|
+| Home Address | 🔒 Restricted |
+| Personal Phone | 🔒 Restricted |
+| Personal Email | 🔒 Restricted |
+| Emergency Contact | 🔒 Restricted |
+| Portal Credentials | 🔒 Restricted |
 
 ---
 
-> Profile last synced: March 2026 · [← Back to Provider Index](README.md)
+> Profile last synced: March 2026

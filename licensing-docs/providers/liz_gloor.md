@@ -1,14 +1,27 @@
 # Liz Gloor
 
-**Credential:** NP &nbsp;|&nbsp; **NPI:** `` &nbsp;|&nbsp; **Email:** liz@fountain.net
-**Services:** — &nbsp;|&nbsp; **Contract Start:** 03/21/2025
+[← Provider Index](README.md)
 
 ---
 
-## Licenses & Certifications
+| Field | Value |
+|---|---|
+| **Credential** | NP |
+| **NPI** | `` |
+| **Email** | liz@fountain.net |
+| **Services** | — |
+| **Contract Start** | 03/21/2025 |
+
+{{% hint style="danger" %}}
+🔴 **This provider has one or more licenses expiring within 30 days.** Review the table below and initiate renewal immediately.
+{{% endhint %}}
+
+---
+
+## 📋 Licenses & Certifications
 
 | Type | License # | Issued | Expires | Status | Notes |
-|---|---|---|---|---|---|
+|---|---|---|---|:---:|---|
 | MD DEA | `MG7991006` |  | 09/30/2028 | 🟢 Active | — |
 | AANP | `F0610182` | 06/01/2010 | 05/31/2030 | 🟢 Active | — |
 | DC RN | `RN500002244` | 09/16/2022 | 06/30/2024 | 🔴 Expired | — |
@@ -25,25 +38,29 @@
 
 ---
 
-## DEA Registrations
+## 💊 DEA Registrations
 
 | State | DEA Number | Expiration | Status |
-|---|---|---|---|
-| MD | `MG7991006` | 09/30/2028 | 🟢 Active |
+|---|---|---|:---:|
+| **MD** | `MG7991006` | 09/30/2028 | 🟢 Active |
 
 
 ---
 
-## Redacted Fields
+## 🔒 Redacted Fields
 
-The following fields are available in the Provider & Compliance Dashboard (restricted access):
+{% hint style="warning" %}
+The following fields are available in the Provider & Compliance Dashboard (restricted access only). They are not displayed here for security compliance.
+{% endhint %}
 
-- Home Address — ████████████
-- Personal Phone — ████████████
-- Personal Email — ████████████
-- Emergency Contact — ████████████
-- Portal Credentials — ████████████
+| Field | |
+|---|---|
+| Home Address | 🔒 Restricted |
+| Personal Phone | 🔒 Restricted |
+| Personal Email | 🔒 Restricted |
+| Emergency Contact | 🔒 Restricted |
+| Portal Credentials | 🔒 Restricted |
 
 ---
 
-> Profile last synced: March 2026 · [← Back to Provider Index](README.md)
+> Profile last synced: March 2026

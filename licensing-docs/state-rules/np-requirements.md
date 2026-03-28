@@ -1,34 +1,37 @@
-# NP Licensing Requirements by State
+# 👩‍⚕️ NP Licensing Requirements
 
-## Compact States (eNLC)
+## eNLC Compact States
 
-Nurse Practitioners holding an active eNLC compact license may practice in any eNLC member state without obtaining an additional state license.
+{{% hint style="success" %}}
+**Compact states are fast-track.** An NP with an active home-state eNLC license can practice in any member state — no additional application. See the [Compact License SOP](../sops/compact-license.md).
+{{% endhint %}}
 
-**Key requirement:** Home state must be an eNLC compact state. Compact privileges are automatic for member states.
-
-**Current eNLC states:** AL, AZ, AR, CO, DE, FL, GA, ID, IN, IA, KS, KY, LA, ME, MD, MS, MO, MT, NE, NH, NJ, NM, NC, ND, OH, OK, OR, SC, SD, TN, TX, UT, VA, WA, WV, WI, WY
-
----
-
-## Non-Compact States
-
-Non-compact states require a full individual state application. Process varies by state but generally includes:
-
-1. Verify education transcripts with state board
-2. Submit state application + fee
-3. Provide proof of active national certification (ANCC, AANP, etc.)
-4. Obtain state-specific Collaborative Practice Agreement (CPA) if required
-5. Apply for state Controlled Substance Registration (CSR) if required
-6. Register with state PMP
+**Current eNLC member states:**
+AL · AZ · AR · CO · DE · FL · GA · ID · IN · IA · KS · KY · LA · ME · MD · MS · MO · MT · NE · NH · NJ · NM · NC · ND · OH · OK · OR · SC · SD · TN · TX · UT · VA · WA · WV · WI · WY
 
 ---
 
-## Prescriptive Authority
+## Non-Compact State Application Process
 
-| Practice Type | Description |
-|---|---|
-| Full Practice Authority (FPA) | NP can independently prescribe without physician oversight |
-| Reduced / Restricted | CPA with collaborating physician required |
-| Supervised | Physician supervision required on-site or by agreement |
+For states not in eNLC, a full individual license application is required:
 
-See [CPA Tracker](../trackers/cpa-tracker.md) for current CPA status by provider and state.
+1. Verify education transcripts with the state board
+2. Submit state application + fee (see [Fee Table](../reference/fee-table.md))
+3. Provide proof of national certification (ANCC or AANP)
+4. Execute Collaborative Practice Agreement (CPA) if required — see [CPA Tracker](../trackers/cpa-tracker.md)
+5. Apply for state CSR if required — see [CSR SOP](../sops/csr-application.md)
+6. Register with state PMP — see [PMP Tracker](../trackers/pmp-tracker.md)
+
+**Timeline:** 4–16 weeks depending on state. Compact states: 2–4 weeks.
+
+---
+
+## Practice Authority by State Type
+
+| Authority Level | Description | CPA Required? |
+|---|---|:---:|
+| **Full Practice Authority (FPA)** | NP can independently prescribe without physician oversight | ❌ No |
+| **Reduced / Restricted** | CPA with collaborating physician required | ✅ Yes |
+| **Supervised** | Physician supervision required on-site or by agreement | ✅ Yes |
+
+[← State Rules Overview](README.md)

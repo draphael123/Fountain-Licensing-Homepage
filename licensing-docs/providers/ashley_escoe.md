@@ -1,39 +1,53 @@
 # Ashley  Escoe
 
-**Credential:** NP &nbsp;|&nbsp; **NPI:** `` &nbsp;|&nbsp; **Email:** ashley.escoe@fountain.net
-**Services:** — &nbsp;|&nbsp; **Contract Start:** 09/25/2025
+[← Provider Index](README.md)
 
 ---
 
-## Licenses & Certifications
+| Field | Value |
+|---|---|
+| **Credential** | NP |
+| **NPI** | `` |
+| **Email** | ashley.escoe@fountain.net |
+| **Services** | — |
+| **Contract Start** | 09/25/2025 |
+
+
+---
+
+## 📋 Licenses & Certifications
 
 | Type | License # | Issued | Expires | Status | Notes |
-|---|---|---|---|---|---|
+|---|---|---|---|:---:|---|
 | — | — | — | — | — | No license data on file |
 
 
 ---
 
-## DEA Registrations
+## 💊 DEA Registrations
 
 | State | DEA Number | Expiration | Status |
-|---|---|---|---|
-| FL | `MG6509105` | 09/30/2027 | 🟢 Active |
-| TX | `ME7323835` | 08/31/2028 | 🟢 Active |
+|---|---|---|:---:|
+| **FL** | `MG6509105` | 09/30/2027 | 🟢 Active |
+| **TX** | `ME7323835` | 08/31/2028 | 🟢 Active |
 
 
 ---
 
-## Redacted Fields
+## 🔒 Redacted Fields
 
-The following fields are available in the Provider & Compliance Dashboard (restricted access):
+{% hint style="warning" %}
+The following fields are available in the Provider & Compliance Dashboard (restricted access only). They are not displayed here for security compliance.
+{% endhint %}
 
-- Home Address — ████████████
-- Personal Phone — ████████████
-- Personal Email — ████████████
-- Emergency Contact — ████████████
-- Portal Credentials — ████████████
+| Field | |
+|---|---|
+| Home Address | 🔒 Restricted |
+| Personal Phone | 🔒 Restricted |
+| Personal Email | 🔒 Restricted |
+| Emergency Contact | 🔒 Restricted |
+| Portal Credentials | 🔒 Restricted |
 
 ---
 
-> Profile last synced: March 2026 · [← Back to Provider Index](README.md)
+> Profile last synced: March 2026

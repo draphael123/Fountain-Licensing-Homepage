@@ -1,13 +1,17 @@
-# SOPs & Workflows
+# 📖 SOPs & Workflows
 
-Standard operating procedures for all licensing and compliance workflows.
+Standard operating procedures for all licensing and compliance workflows at Fountain Vitality.
 
-| SOP | Description |
-|---|---|
-| [New License Application](new-license-application.md) | Applying for a new state license |
-| [License Renewal](license-renewal.md) | Renewing an existing license |
-| [CSR Application](csr-application.md) | State controlled substance registration |
-| [DEA Registration](dea-registration.md) | Federal DEA registration and renewal |
-| [Compact License](compact-license.md) | eNLC and IMLC compact licensing |
-| [Provider Onboarding](provider-onboarding.md) | End-to-end onboarding checklist |
-| [Provider Offboarding](provider-offboarding.md) | End-to-end offboarding checklist |
+| SOP | Owner | Trigger |
+|---|---|---|
+| [New License Application](new-license-application.md) | Ashley Gwinn | New state or new hire |
+| [License Renewal](license-renewal.md) | Ashley Gwinn | 90-day expiration alert |
+| [CSR Application](csr-application.md) | Ashley Gwinn | New license in CSR state |
+| [DEA Registration](dea-registration.md) | Ashley Gwinn | New provider or new state |
+| [Compact License](compact-license.md) | Ashley Gwinn | eNLC / IMLC expansion |
+| [Provider Onboarding](provider-onboarding.md) | Daniel Raphael | Background check cleared |
+| [Provider Offboarding](provider-offboarding.md) | Daniel Raphael | Provider termination |
+
+{{% hint style="info" %}}
+All licensing SOPs feed into the Provider & Compliance Dashboard. Update status there after every step.
+{{% endhint %}}

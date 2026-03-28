@@ -1,29 +1,69 @@
-# Fountain Vitality — Licensing Knowledge Base
+# 🏥 Fountain Vitality — Licensing Hub
 
-Welcome to the Fountain Vitality licensing knowledge base. This site is the single source of truth for provider licensing, compliance tracking, state rules, and operational SOPs.
-
-**Last updated:** March 2026 · Source: Provider & Compliance Dashboard
+> Single source of truth for provider licensing, compliance tracking, state rules, and operational SOPs.
+> **Last updated:** March 2026 · Source: Provider & Compliance Dashboard
 
 ---
 
-## Quick Links
+## 📊 At a Glance
 
-| Section | Description |
+| Metric | Count |
 |---|---|
-| [State Rules](state-rules/state-matrix.md) | Compact status, operational status, CPA/DEA requirements by state |
-| [Provider Profiles](providers/README.md) | Individual provider license, DEA, and compliance data |
-| [Renewal Tracker](trackers/renewal-tracker.md) | Upcoming and pending license renewals |
-| [DEA Tracker](trackers/dea-tracker.md) | DEA registration status by provider and state |
-| [PMP Tracker](trackers/pmp-tracker.md) | Prescription monitoring program registrations |
-| [CPA Tracker](trackers/cpa-tracker.md) | Collaborative physician agreements by state |
-| [SOPs](sops/README.md) | Step-by-step licensing workflows |
-| [Board Directory](reference/board-directory.md) | State board contacts, portals, and phone numbers |
-| [Glossary](reference/glossary.md) | Key licensing terms and acronyms |
-| [External Tools](external-tools.md) | License Expiration Monitor, CEU Tracker |
+| 👩‍⚕️ Active Providers | 26 |
+| 🗺️ Licensed States | 51 |
+| 📋 DEA Registrations | 38 |
+| 🔄 Renewals Tracked | 39 |
+| 🔴 Renewals Urgent | 18 |
+| 🟡 Renewals Expiring Soon | 0 |
+
+URGENT_BLOCK
+---
+
+## 🔗 Quick Navigation
+
+### 📋 Operations
+| | |
+|---|---|
+| [🗺️ State Matrix](state-rules/state-matrix.md) | Active state coverage & service availability |
+| [📜 State Rules Table](state-rules/state-rules-table.md) | Compact, CPA, DEA requirements by state |
+| [🌐 Telehealth Rules](state-rules/telehealth-rules.md) | Prescribing rules by state |
+
+### 👥 Providers
+| | |
+|---|---|
+| [👥 Provider Index](providers/README.md) | All 26 providers — licenses, DEA, NPI |
+
+### 📊 Trackers
+| | |
+|---|---|
+| [🔄 Renewal Tracker](trackers/renewal-tracker.md) | License renewal pipeline |
+| [💊 DEA Tracker](trackers/dea-tracker.md) | DEA registration status |
+| [📝 PMP Tracker](trackers/pmp-tracker.md) | Prescription monitoring registrations |
+| [🤝 CPA Tracker](trackers/cpa-tracker.md) | Collaborative physician agreements |
+| [🎓 CE Requirements](trackers/ce-requirements.md) | Continuing education by state |
+
+### 📖 SOPs
+| | |
+|---|---|
+| [📄 New License Application](sops/new-license-application.md) | Step-by-step new state license |
+| [🔁 License Renewal](sops/license-renewal.md) | Renewal workflow |
+| [💊 CSR Application](sops/csr-application.md) | Controlled substance registration |
+| [🏛️ DEA Registration](sops/dea-registration.md) | Federal DEA new + renewal |
+| [🤝 Compact License](sops/compact-license.md) | eNLC / IMLC process |
+| [✅ Provider Onboarding](sops/provider-onboarding.md) | End-to-end onboarding checklist |
+| [🚪 Provider Offboarding](sops/provider-offboarding.md) | End-to-end offboarding checklist |
+
+### 📚 Reference
+| | |
+|---|---|
+| [🏛️ Board Directory](reference/board-directory.md) | 25 state boards — phone, URL, portal |
+| [💰 Fee Table](reference/fee-table.md) | Application & renewal fees by state |
+| [📖 Glossary](reference/glossary.md) | Key terms and acronyms |
+| [🔧 External Tools](external-tools.md) | License Monitor & CEU Tracker |
 
 ---
 
-## Licensing Team
+## 👥 Licensing Team
 
 | Name | Role |
 |---|---|
@@ -39,11 +79,11 @@ Welcome to the Fountain Vitality licensing knowledge base. This site is the sing
 
 ---
 
-## Status Key
+## 🚦 Status Key
 
-| Badge | Meaning |
-|---|---|
-| 🟢 Active | License current, expiring >90 days |
-| 🟡 Expiring | Expiring within 90 days |
-| 🔴 Urgent | Expiring within 30 days or expired |
-| ⏳ Pending | Application in progress |
+| Badge | Meaning | Action Required |
+|---|---|---|
+| 🟢 Active | Current, expires >90 days | None |
+| 🟡 Expiring | Expires within 90 days | Begin renewal |
+| 🔴 Urgent | Expires within 30 days or expired | Escalate immediately |
+| ⏳ Pending | Application in progress | Monitor |

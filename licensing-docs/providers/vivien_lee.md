@@ -1,14 +1,24 @@
 # Vivien Lee
 
-**Credential:** NP &nbsp;|&nbsp; **NPI:** `` &nbsp;|&nbsp; **Email:** vivien@fountain.net
-**Services:** — &nbsp;|&nbsp; **Contract Start:** 03/03/2025
+[← Provider Index](README.md)
 
 ---
 
-## Licenses & Certifications
+| Field | Value |
+|---|---|
+| **Credential** | NP |
+| **NPI** | `` |
+| **Email** | vivien@fountain.net |
+| **Services** | — |
+| **Contract Start** | 03/03/2025 |
+
+
+---
+
+## 📋 Licenses & Certifications
 
 | Type | License # | Issued | Expires | Status | Notes |
-|---|---|---|---|---|---|
+|---|---|---|---|:---:|---|
 | ANCC | `2023020998` | 07/21/2023 | 07/20/2028 | 🟢 Active | — |
 | CA DEA | `ML8109806` |  | 03/31/2029 | 🟢 Active | — |
 | *CA RN | `672554` | 01/27/2006 | 12/31/2027 | 🟢 Active | — |
@@ -22,25 +32,29 @@
 
 ---
 
-## DEA Registrations
+## 💊 DEA Registrations
 
 | State | DEA Number | Expiration | Status |
-|---|---|---|---|
-| CA | `ML8109806` | 03/31/2029 | 🟢 Active |
+|---|---|---|:---:|
+| **CA** | `ML8109806` | 03/31/2029 | 🟢 Active |
 
 
 ---
 
-## Redacted Fields
+## 🔒 Redacted Fields
 
-The following fields are available in the Provider & Compliance Dashboard (restricted access):
+{% hint style="warning" %}
+The following fields are available in the Provider & Compliance Dashboard (restricted access only). They are not displayed here for security compliance.
+{% endhint %}
 
-- Home Address — ████████████
-- Personal Phone — ████████████
-- Personal Email — ████████████
-- Emergency Contact — ████████████
-- Portal Credentials — ████████████
+| Field | |
+|---|---|
+| Home Address | 🔒 Restricted |
+| Personal Phone | 🔒 Restricted |
+| Personal Email | 🔒 Restricted |
+| Emergency Contact | 🔒 Restricted |
+| Portal Credentials | 🔒 Restricted |
 
 ---
 
-> Profile last synced: March 2026 · [← Back to Provider Index](README.md)
+> Profile last synced: March 2026

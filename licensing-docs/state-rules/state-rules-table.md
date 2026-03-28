@@ -1,59 +1,68 @@
-# State Rules Table
+# 📜 State Rules Table
 
-| State | eNLC/IMLC | Operational | App Steps | DEA/CSR Required | CPA Required | Notes |
-|---|---|---|---|---|---|---|
-| Arizona | ✅ Yes | ✅ Yes | `NP → PMP → CPA` | ✅ Not Required | ✅ Not Required |  |
-| California | ❌ No | ✅ Yes | `RN → NP → Furnishing license → PMP → CPA` | ✅ Not Required | 🔵 Conditional | Full Practice state. Telehealth note: If NP is CA-licensed, practicing through CA-based entity, and treating CA patients... |
-| Colorado | ✅ Yes | ✅ Yes | `NP → RX authority → PMP → CPA` | ✅ Not Required | ✅ Not Required |  |
-| Florida | ✅ Yes | ✅ Yes | `NP → PMP → CPA` | ✅ Not Required | 🔵 Conditional |  |
-| Idaho | ✅ Yes | ✅ Yes | `NP → CSR → PMP` | ⚠️ Required | ✅ Not Required | Schedule 3, 4, 5. |
-| Illinois | ❌ No | ✅ Yes | `RN → NP → CSR → PMP → CPA` | ⚠️ Required | ✅ Not Required | Schedule 3, 4, 5. |
-| Indiana | ✅ Yes | ✅ Yes | `NP → CSR/CPA → PMP` | ⚠️ Required | 🔵 Conditional | Schedule 3, 4, 5. |
-| Iowa | ✅ Yes | ✅ Yes | `NP → CSR → PMP` | ⚠️ Required | ✅ Not Required | Schedule 3, 4, 5. |
-| Kentucky | ✅ Yes | ✅ Yes | `NP → PMP` | ✅ Not Required | ⚠️ Required | No CSRs needed. Fountain NPs do not prescribe in KY. |
-| Maine | ✅ Yes | ✅ Yes | `NP → PMP` | ✅ Not Required | ✅ Not Required |  |
-| Maryland | ✅ Yes | ✅ Yes | `NP → CSR → PMP → CPA` | ⚠️ Required | ✅ Not Required | Schedule 3, 4, 5. State DEA specific. |
-| Massachusetts | ❌ No | ✅ Yes | `RN → NP → MassHealth nonbillable app → CSR → PMP` | ⚠️ Required | ✅ Not Required | MassHealth nonbillable app required. PEC contact: PEC@maximus.com. MassHealth Customer Service: Provider@masshealthquest... |
-| Michigan | ❌ No | ✅ Yes | `RN → NP → PMP → CPA` | ✅ Not Required | ⚠️ Required |  |
-| Minnesota | ❌ No | ✅ Yes | `RN → NP → PMP` | ✅ Not Required | ✅ Not Required |  |
-| Montana | ✅ Yes | ✅ Yes | `NP → RX authority → PMP` | ✅ Not Required | ✅ Not Required | Schedule 3, 4, 5. |
-| Nebraska | ✅ Yes | ✅ Yes | `NP → PMP` | ✅ Not Required | ✅ Not Required |  |
-| Nevada | ❌ No | ✅ Yes | `RN → NP → CSR → PMP → CPA` | ⚠️ Required | ✅ Not Required | Schedule 3, 4, 5. |
-| New Jersey | ❌ No | ✅ Yes | `NP → CSR → PMP → CPA` | ⚠️ Required | ⚠️ Required | Schedule 3, 4, 5. |
-| New Mexico | ✅ Yes | ✅ Yes | `NP → CSR → PMP → CPA` | ⚠️ Required | ✅ Not Required | Schedule 3, 4, 5. |
-| New York | ❌ No | ✅ Yes | `RN → NP → PMP` | ✅ Not Required | ✅ Not Required | If living in NY and needs DEA in NY: Schedule 2, 3, 4, 5. |
-| North Carolina | ✅ Yes | ✅ Yes | `NP → PMP → CPA` | ✅ Not Required | ⚠️ Required |  |
-| North Dakota | ✅ Yes | ✅ Yes | `NP → PMP → CPA` | ✅ Not Required | ✅ Not Required |  |
-| Ohio | ✅ Yes | ✅ Yes | `NP → PMP` | ✅ Not Required | ⚠️ Required |  |
-| Oregon | ❌ No | ✅ Yes | `RN → NP → PMP` | ✅ Not Required | ✅ Not Required |  |
-| Pennsylvania | ❌ No | ✅ Yes | `RN → NP → RX authority → PMP → CPA` | ✅ Not Required | ⚠️ Required | Schedule 3, 4, 5. MDs and DOs do not need a separate prescriptive RX license or authority registration in addition to th... |
-| South Dakota | ✅ Yes | ✅ Yes | `NP → CSR → PMP` | ⚠️ Required | ✅ Not Required | Schedule 3, 4, 5. |
-| Tennessee | ❌ No | ✅ Yes | `NP → CSR → PMP → CPA` | ⚠️ Required | ⚠️ Required | Schedule 3, 4, 5. |
-| Texas | ✅ Yes | ✅ Yes | `NP → PMP → CPA` | ✅ Not Required | ⚠️ Required |  |
-| Utah | ✅ Yes | ✅ Yes | `NP → CSR → PMP` | ⚠️ Required | ✅ Not Required | Schedule 3, 4, 5. State DEA specific. |
-| Vermont | ✅ Yes | ✅ Yes | `NP → PMP` | ✅ Not Required | ✅ Not Required |  |
-| Virginia | ✅ Yes | ✅ Yes | `NP → PMP → CPA` | ✅ Not Required | ⚠️ Required |  |
-| Washington | ❌ No | ✅ Yes | `NP → PMP` | ✅ Not Required | ✅ Not Required |  |
-| Wisconsin | ✅ Yes | ✅ Yes | `NP → PMP → CPA` | ✅ Not Required | ⚠️ Required |  |
-| Wyoming | ✅ Yes | ✅ Yes | `NP → CSR → PMP` | ⚠️ Required | ✅ Not Required |  |
-| Alabama | ❌ No | ⚠️ No | `` | ✅ Not Required | ⚠️ Required |  |
-| Alaska | ❌ No | ⚠️ No | `RN → NP → DEA` | ⚠️ Required | ✅ Not Required | Schedule 2, 3, 4, 5. |
-| Arkansas | ✅ Yes | ⚠️ No | `` | ✅ Not Required | ✅ Not Required |  |
-| Connecticut | ❌ No | ⚠️ No | `` | ✅ Not Required | ✅ Not Required |  |
-| Delaware | ❌ No | ⚠️ No | `NP → CSR → DEA → PMP` | ⚠️ Required | ✅ Not Required | State specific DEA |
-| Georgia | ❌ No | ⚠️ No | `` | ✅ Not Required | ✅ Not Required |  |
-| Hawaii | ❌ No | ⚠️ No | `NON CONTROLLED STATE- RN--> NP only!` | N/A | ✅ Not Required | NON CONTROLLED STATE |
-| Kansas | ✅ Yes | ⚠️ No | `` | ✅ Not Required | ✅ Not Required |  |
-| Louisiana | ❌ No | ⚠️ No | `NON CONTROLLED STATE- NP only!` | N/A | ⚠️ Required | NON CONTROLLED STATE |
-| Mississippi | ✅ Yes | ⚠️ No | `` | ✅ Not Required | ⚠️ Required |  |
-| Missouri | ✅ Yes | ⚠️ No | `` | ✅ Not Required | ⚠️ Required |  |
-| New Hampshire | ❌ No | ⚠️ No | `` | ✅ Not Required | ⚠️ Required |  |
-| Oklahoma | ❌ No | ⚠️ No | `NP, Independent P.A-> NON CONTROLLED STATE` | ✅ Not Required | ⚠️ Required |  |
-| Rhode Island | ✅ Yes | ⚠️ No | `NP only NON CONTROLLED STATE` | N/A | ✅ Not Required | NON CONTROLLED STATE |
-| South Carolina | ✅ Yes | ⚠️ No | `` | ✅ Not Required | ⚠️ Required |  |
-| Washington D.C. | ❌ No | ⚠️ No | `` | ✅ Not Required | ✅ Not Required |  |
-| West Virginia | ✅ Yes | ⚠️ No | `NP → Pres Auth → CSE → DEA → PMP` | ⚠️ Required | 🔵 Conditional |  |
+Compact membership, operational status, application steps, DEA/CSR requirements, and CPA requirements for all 51 Fountain states.
+
+{% hint style="info" %}
+**Column guide:** eNLC/IMLC = compact eligible · Operational = currently taking patients · Steps = application path code · DEA/CSR = state registration required · CPA = collaborating physician agreement required
+{% endhint %}
+
+| State | eNLC/IMLC | Operational | Steps | DEA/CSR | CPA |
+|---|:---:|:---:|:---:|:---:|:---:|
+| **Arizona** | ✅ Yes | ✅ Yes | `NP → PMP → CPA` | ✅ No | ✅ No |
+| **California** | ❌ No | ✅ Yes | `RN → NP → Furnishing license → PMP → CPA` | ✅ No | 🔵 Cond. |
+| **Colorado** | ✅ Yes | ✅ Yes | `NP → RX authority → PMP → CPA` | ✅ No | ✅ No |
+| **Florida** | ✅ Yes | ✅ Yes | `NP → PMP → CPA` | ✅ No | 🔵 Cond. |
+| **Idaho** | ✅ Yes | ✅ Yes | `NP → CSR → PMP` | ⚠️ Req. | ✅ No |
+| **Illinois** | ❌ No | ✅ Yes | `RN → NP → CSR → PMP → CPA` | ⚠️ Req. | ✅ No |
+| **Indiana** | ✅ Yes | ✅ Yes | `NP → CSR/CPA → PMP` | ⚠️ Req. | 🔵 Cond. |
+| **Iowa** | ✅ Yes | ✅ Yes | `NP → CSR → PMP` | ⚠️ Req. | ✅ No |
+| **Kentucky** | ✅ Yes | ✅ Yes | `NP → PMP` | ✅ No | ⚠️ Req. |
+| **Maine** | ✅ Yes | ✅ Yes | `NP → PMP` | ✅ No | ✅ No |
+| **Maryland** | ✅ Yes | ✅ Yes | `NP → CSR → PMP → CPA` | ⚠️ Req. | ✅ No |
+| **Massachusetts** | ❌ No | ✅ Yes | `RN → NP → MassHealth nonbillable app → CSR → PMP` | ⚠️ Req. | ✅ No |
+| **Michigan** | ❌ No | ✅ Yes | `RN → NP → PMP → CPA` | ✅ No | ⚠️ Req. |
+| **Minnesota** | ❌ No | ✅ Yes | `RN → NP → PMP` | ✅ No | ✅ No |
+| **Montana** | ✅ Yes | ✅ Yes | `NP → RX authority → PMP` | ✅ No | ✅ No |
+| **Nebraska** | ✅ Yes | ✅ Yes | `NP → PMP` | ✅ No | ✅ No |
+| **Nevada** | ❌ No | ✅ Yes | `RN → NP → CSR → PMP → CPA` | ⚠️ Req. | ✅ No |
+| **New Jersey** | ❌ No | ✅ Yes | `NP → CSR → PMP → CPA` | ⚠️ Req. | ⚠️ Req. |
+| **New Mexico** | ✅ Yes | ✅ Yes | `NP → CSR → PMP → CPA` | ⚠️ Req. | ✅ No |
+| **New York** | ❌ No | ✅ Yes | `RN → NP → PMP` | ✅ No | ✅ No |
+| **North Carolina** | ✅ Yes | ✅ Yes | `NP → PMP → CPA` | ✅ No | ⚠️ Req. |
+| **North Dakota** | ✅ Yes | ✅ Yes | `NP → PMP → CPA` | ✅ No | ✅ No |
+| **Ohio** | ✅ Yes | ✅ Yes | `NP → PMP` | ✅ No | ⚠️ Req. |
+| **Oregon** | ❌ No | ✅ Yes | `RN → NP → PMP` | ✅ No | ✅ No |
+| **Pennsylvania** | ❌ No | ✅ Yes | `RN → NP → RX authority → PMP → CPA` | ✅ No | ⚠️ Req. |
+| **South Dakota** | ✅ Yes | ✅ Yes | `NP → CSR → PMP` | ⚠️ Req. | ✅ No |
+| **Tennessee** | ❌ No | ✅ Yes | `NP → CSR → PMP → CPA` | ⚠️ Req. | ⚠️ Req. |
+| **Texas** | ✅ Yes | ✅ Yes | `NP → PMP → CPA` | ✅ No | ⚠️ Req. |
+| **Utah** | ✅ Yes | ✅ Yes | `NP → CSR → PMP` | ⚠️ Req. | ✅ No |
+| **Vermont** | ✅ Yes | ✅ Yes | `NP → PMP` | ✅ No | ✅ No |
+| **Virginia** | ✅ Yes | ✅ Yes | `NP → PMP → CPA` | ✅ No | ⚠️ Req. |
+| **Washington** | ❌ No | ✅ Yes | `NP → PMP` | ✅ No | ✅ No |
+| **Wisconsin** | ✅ Yes | ✅ Yes | `NP → PMP → CPA` | ✅ No | ⚠️ Req. |
+| **Wyoming** | ✅ Yes | ✅ Yes | `NP → CSR → PMP` | ⚠️ Req. | ✅ No |
+| **Alabama** | ❌ No | ⚠️ No | `` | ✅ No | ⚠️ Req. |
+| **Alaska** | ❌ No | ⚠️ No | `RN → NP → DEA` | ⚠️ Req. | ✅ No |
+| **Arkansas** | ✅ Yes | ⚠️ No | `` | ✅ No | ✅ No |
+| **Connecticut** | ❌ No | ⚠️ No | `` | ✅ No | ✅ No |
+| **Delaware** | ❌ No | ⚠️ No | `NP → CSR → DEA → PMP` | ⚠️ Req. | ✅ No |
+| **Georgia** | ❌ No | ⚠️ No | `` | ✅ No | ✅ No |
+| **Hawaii** | ❌ No | ⚠️ No | `NON CONTROLLED STATE- RN--> NP only!` | N/A | ✅ No |
+| **Kansas** | ✅ Yes | ⚠️ No | `` | ✅ No | ✅ No |
+| **Louisiana** | ❌ No | ⚠️ No | `NON CONTROLLED STATE- NP only!` | N/A | ⚠️ Req. |
+| **Mississippi** | ✅ Yes | ⚠️ No | `` | ✅ No | ⚠️ Req. |
+| **Missouri** | ✅ Yes | ⚠️ No | `` | ✅ No | ⚠️ Req. |
+| **New Hampshire** | ❌ No | ⚠️ No | `` | ✅ No | ⚠️ Req. |
+| **Oklahoma** | ❌ No | ⚠️ No | `NP, Independent P.A-> NON CONTROLLED STATE` | ✅ No | ⚠️ Req. |
+| **Rhode Island** | ✅ Yes | ⚠️ No | `NP only NON CONTROLLED STATE` | N/A | ✅ No |
+| **South Carolina** | ✅ Yes | ⚠️ No | `` | ✅ No | ⚠️ Req. |
+| **Washington D.C.** | ❌ No | ⚠️ No | `` | ✅ No | ✅ No |
+| **West Virginia** | ✅ Yes | ⚠️ No | `NP → Pres Auth → CSE → DEA → PMP` | ⚠️ Req. | 🔵 Cond. |
+
 
 ---
 
-> Source: State Rules-NEW tab — Provider & Compliance Dashboard, March 2026
+> Source: State Rules-NEW tab · Provider & Compliance Dashboard · March 2026
+
+[← State Rules Overview](README.md)
