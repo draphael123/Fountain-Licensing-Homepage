@@ -18,6 +18,6 @@ Everything you need to know about licensing requirements across all Fountain sta
 
 ---
 
-{{% hint style="info" %}}
+{% hint style="info" %}
 **Compact tip:** If a state is eNLC or IMLC compact, use the [Compact License SOP](../sops/compact-license.md) — it's faster and cheaper than a full individual application.
-{{% endhint %}}
+{% endhint %}

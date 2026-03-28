@@ -2,9 +2,9 @@
 
 ## Ryan Haight Act & DEA Exemptions
 
-{{% hint style="warning" %}}
+{% hint style="warning" %}
 The Ryan Haight Act requires an in-person evaluation before prescribing controlled substances via telehealth. COVID-era DEA exemptions extended telemedicine prescribing authority for Schedule III–V substances. **Confirm current exemption status with compliance before prescribing controlled substances in any new state.**
-{{% endhint %}}
+{% endhint %}
 
 ---
 
@@ -38,8 +38,8 @@ The Ryan Haight Act requires an in-person evaluation before prescribing controll
 | Virginia | No | Full | — |
 | West Virginia | No | Full | — |
 
-{{% hint style="info" %}}
+{% hint style="info" %}
 Telehealth rules change frequently. Always verify with compliance before launching in a new state.
-{{% endhint %}}
+{% endhint %}
 
 [← State Rules Overview](README.md)

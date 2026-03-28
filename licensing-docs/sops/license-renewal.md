@@ -13,9 +13,9 @@
 
 ## Phase 2 — CE Verification
 
-{{% hint style="warning" %}}
+{% hint style="warning" %}
 CE must be complete before submitting renewal. Check [CEU Tracker](https://ceu-tracker.vercel.app/) first.
-{{% endhint %}}
+{% endhint %}
 
 - [ ] Verify CE completion in [CEU Tracker](https://ceu-tracker.vercel.app/)
 - [ ] Cross-check against [CE Requirements](../trackers/ce-requirements.md)
@@ -35,6 +35,6 @@ CE must be complete before submitting renewal. Check [CEU Tracker](https://ceu-t
 - [ ] Update License Expiration Monitor
 - [ ] File confirmation in provider's Drive folder
 
-{{% hint style="danger" %}}
+{% hint style="danger" %}
 **Escalation:** If not confirmed within 30 days of expiration → escalate to Daniel Raphael. If expired → immediate escalation to CCOO/CMO. Provider must stop seeing patients in that state.
-{{% endhint %}}
+{% endhint %}

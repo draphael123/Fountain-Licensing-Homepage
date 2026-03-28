@@ -2,9 +2,9 @@
 
 All 26 active Fountain Vitality providers. Click any provider to view their full license, DEA, and compliance data.
 
-{{% hint style="warning" %}}
+{% hint style="warning" %}
 Sensitive fields (SSN, home address, personal phone, passwords) are redacted. Access the Provider & Compliance Dashboard directly for restricted fields.
-{{% endhint %}}
+{% endhint %}
 
 
 | Provider | Credential | Email | NPI | Services | Licenses on File |

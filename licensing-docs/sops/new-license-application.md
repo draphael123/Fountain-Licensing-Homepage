@@ -3,9 +3,9 @@
 **Owner:** Ashley Gwinn / Licensing Team
 **Trigger:** New state expansion or new provider hire
 
-{{% hint style="info" %}}
+{% hint style="info" %}
 **Before starting:** Check if the state is eNLC or IMLC compact-eligible. If yes, use the [Compact License SOP](compact-license.md) instead — it's faster and cheaper.
-{{% endhint %}}
+{% endhint %}
 
 ---
 
@@ -43,6 +43,6 @@
 - [ ] Register with state PMP
 - [ ] Notify CCOO/CMO and scheduling that provider is live in state
 
-{{% hint style="warning" %}}
+{% hint style="warning" %}
 **Timeline:** 4–16 weeks for standard applications. Compact states: 2–4 weeks. Set calendar reminders accordingly.
-{{% endhint %}}
+{% endhint %}

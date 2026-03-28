@@ -27,10 +27,10 @@
 
 ## DEA Renewal
 
-{{% hint style="info" %}}
+{% hint style="info" %}
 DEA sends a renewal reminder 60 days before expiration. Renewal fee: **$888** for 3 years.
 Renewal URL: [dea.diversion.usdoj.gov](https://www.dea.diversion.usdoj.gov/online_forms_and_applications/renewal.htm)
-{{% endhint %}}
+{% endhint %}
 
 - [ ] Receive 60-day reminder email from DEA
 - [ ] Complete renewal online

@@ -2,9 +2,9 @@
 
 ## eNLC Compact States
 
-{{% hint style="success" %}}
+{% hint style="success" %}
 **Compact states are fast-track.** An NP with an active home-state eNLC license can practice in any member state — no additional application. See the [Compact License SOP](../sops/compact-license.md).
-{{% endhint %}}
+{% endhint %}
 
 **Current eNLC member states:**
 AL · AZ · AR · CO · DE · FL · GA · ID · IN · IA · KS · KY · LA · ME · MD · MS · MO · MT · NE · NH · NJ · NM · NC · ND · OH · OK · OR · SC · SD · TN · TX · UT · VA · WA · WV · WI · WY

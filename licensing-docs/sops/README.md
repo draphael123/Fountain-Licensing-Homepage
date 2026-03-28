@@ -12,6 +12,6 @@ Standard operating procedures for all licensing and compliance workflows at Foun
 | [Provider Onboarding](provider-onboarding.md) | Daniel Raphael | Background check cleared |
 | [Provider Offboarding](provider-offboarding.md) | Daniel Raphael | Provider termination |
 
-{{% hint style="info" %}}
+{% hint style="info" %}
 All licensing SOPs feed into the Provider & Compliance Dashboard. Update status there after every step.
-{{% endhint %}}
+{% endhint %}

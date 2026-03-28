@@ -4,9 +4,9 @@
 
 A DEA number allows prescribing controlled substances federally. Renewal is every **3 years** at **$888**.
 
-{{% hint style="info" %}}
+{% hint style="info" %}
 **Renewal URL:** [dea.diversion.usdoj.gov](https://www.dea.diversion.usdoj.gov/online_forms_and_applications/renewal.htm) · DEA sends a 60-day reminder automatically.
-{{% endhint %}}
+{% endhint %}
 
 See [DEA Tracker](../trackers/dea-tracker.md) for current registration status by provider.
 
@@ -16,9 +16,9 @@ See [DEA Tracker](../trackers/dea-tracker.md) for current registration status by
 
 Many states require a separate **Controlled Substance Registration (CSR)** in addition to the federal DEA number.
 
-{{% hint style="warning" %}}
+{% hint style="warning" %}
 Always check CSR requirements **before** a provider begins prescribing in a new state. Missing CSR is a compliance violation.
-{{% endhint %}}
+{% endhint %}
 
 | State | Registration Name | Notes |
 |---|---|---|

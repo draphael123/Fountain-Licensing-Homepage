@@ -12,9 +12,9 @@
 | **Services** | — |
 | **Contract Start** | 02/05/2025 |
 
-{{% hint style="danger" %}}
+{% hint style="danger" %}
 🔴 **This provider has one or more licenses expiring within 30 days.** Review the table below and initiate renewal immediately.
-{{% endhint %}}
+{% endhint %}
 
 ---
 

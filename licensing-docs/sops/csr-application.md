@@ -10,9 +10,9 @@
 - [ ] Check [CSR/DEA Requirements](../state-rules/csr-dea-requirements.md)
 - [ ] Confirm provider has active DEA registration
 
-{{% hint style="warning" %}}
+{% hint style="warning" %}
 CSR is required in 21 states. Missing it is a compliance violation — confirm before the provider begins prescribing.
-{{% endhint %}}
+{% endhint %}
 
 ## Step 2 — Gather Documents
 

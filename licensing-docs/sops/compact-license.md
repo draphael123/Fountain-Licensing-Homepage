@@ -6,9 +6,9 @@
 
 ## eNLC — Nurse Licensure Compact (NPs & RNs)
 
-{{% hint style="success" %}}
+{% hint style="success" %}
 **No application needed** for eNLC states — compact privileges are automatic if the provider's home state is eNLC and their license is active and unencumbered.
-{{% endhint %}}
+{% endhint %}
 
 ### Process
 1. Verify home state is eNLC-member → [NP Requirements](../state-rules/np-requirements.md)
@@ -32,6 +32,6 @@
 4. Timeline: 2–4 weeks per state
 5. Update Provider & Compliance Dashboard for each approved state
 
-{{% hint style="warning" %}}
+{% hint style="warning" %}
 **Important:** Compact privileges do **not** automatically include DEA or CSR. Those must still be obtained per-state. See [DEA SOP](dea-registration.md) and [CSR SOP](csr-application.md).
-{{% endhint %}}
+{% endhint %}

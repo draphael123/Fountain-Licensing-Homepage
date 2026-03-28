@@ -2,9 +2,9 @@
 
 ## eNLC Compact
 
-{{% hint style="success" %}}
+{% hint style="success" %}
 RNs holding an active eNLC license can practice in any member state without an additional state license. The eNLC covers the same states as the NP compact — see [NP Requirements](np-requirements.md) for the full list.
-{{% endhint %}}
+{% endhint %}
 
 ---
 

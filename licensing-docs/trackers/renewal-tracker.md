@@ -1,13 +1,13 @@
 # 🔄 License Renewal Tracker
 
-{{% hint style="warning" %}}
+{% hint style="warning" %}
 🔴 **18 expired/urgent** · 🟡 **0 expiring within 90 days**
-{{% endhint %}}
+{% endhint %}
 
 
-{{% hint style="info" %}}
+{% hint style="info" %}
 **90-day rule:** Start renewal as soon as a license hits 🟡 status. Escalate to Daniel Raphael at 🔴 30 days. Escalate to CCOO/CMO if expired.
-{{% endhint %}}
+{% endhint %}
 
 
 | Provider | State | License Type | Expiration | Status | Renewal Status | Assigned To |

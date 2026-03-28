@@ -6,9 +6,9 @@ Two live monitoring tools are available to the licensing team for real-time visi
 
 ## 🔍 License Expiration Monitor
 
-{{% hint style="info" %}}
+{% hint style="info" %}
 **Best used for:** Daily monitoring · Prioritizing the renewal workload · Spotting expiring licenses at a glance
-{{% endhint %}}
+{% endhint %}
 
 **→** [https://license-expiration-monitor-v2-3ykw-kbikc243m.vercel.app/](https://license-expiration-monitor-v2-3ykw-kbikc243m.vercel.app/)
 
@@ -18,9 +18,9 @@ Tracks expiration dates across all active provider licenses and displays a real-
 
 ## 📚 CEU Tracker
 
-{{% hint style="info" %}}
+{% hint style="info" %}
 **Best used for:** Verifying CE completion before submitting renewal applications
-{{% endhint %}}
+{% endhint %}
 
 **→** [https://ceu-tracker.vercel.app/](https://ceu-tracker.vercel.app/)
 

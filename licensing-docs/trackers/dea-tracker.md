@@ -1,13 +1,13 @@
 # 💊 DEA Registration Tracker
 
-{{% hint style="success" %}}
+{% hint style="success" %}
 ✅ All 38 DEA registrations are current.
-{{% endhint %}}
+{% endhint %}
 
 
-{{% hint style="info" %}}
+{% hint style="info" %}
 **DEA renewals:** Due every 3 years · Fee: $888 · [Renewal portal](https://www.dea.diversion.usdoj.gov/online_forms_and_applications/renewal.htm) · DEA sends a 60-day reminder automatically.
-{{% endhint %}}
+{% endhint %}
 
 
 | Provider | State | DEA Number | Expiration | Status |

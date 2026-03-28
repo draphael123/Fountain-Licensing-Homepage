@@ -2,9 +2,9 @@
 
 Contact information, portals, and phone numbers for all active Fountain states.
 
-{{% hint style="info" %}}
+{% hint style="info" %}
 Use this directory when submitting applications, checking license status, or following up on pending applications.
-{{% endhint %}}
+{% endhint %}
 
 | State | Board | Phone | Website | Portal |
 |---|---|---|---|---|

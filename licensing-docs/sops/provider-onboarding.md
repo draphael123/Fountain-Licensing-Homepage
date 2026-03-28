@@ -13,9 +13,9 @@
 - [ ] **NFP:** Notify to add provider to malpractice policy
 - [ ] **CE Broker:** Set up provider account
 
-{{% hint style="info" %}}
+{% hint style="info" %}
 DocuSign and Gusto must be completed before the provider's first payroll period.
-{{% endhint %}}
+{% endhint %}
 
 ## 🏛️ Phase 2 — Weeks 2–8: Licensing
 
@@ -38,6 +38,6 @@ DocuSign and Gusto must be completed before the provider's first payroll period.
 - [ ] Notify CCOO, CMO, and scheduling team
 - [ ] Add to patient-facing state booking pages
 
-{{% hint style="warning" %}}
+{% hint style="warning" %}
 Provider cannot see patients in a state until the license for that state is fully active in the system.
-{{% endhint %}}
+{% endhint %}

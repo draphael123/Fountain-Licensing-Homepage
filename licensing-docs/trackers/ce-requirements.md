@@ -2,9 +2,9 @@
 
 Continuing education requirements by state and credential type. Use the [CEU Tracker](https://ceu-tracker.vercel.app/) to monitor completion status.
 
-{{% hint style="warning" %}}
+{% hint style="warning" %}
 CE requirements must be **verified before submitting any renewal application.** Incomplete CE will result in a rejected renewal.
-{{% endhint %}}
+{% endhint %}
 
 ---
 
@@ -42,9 +42,9 @@ CE requirements must be **verified before submitting any renewal application.** 
 
 ## MD/DO CME Requirements
 
-{{% hint style="info" %}}
+{% hint style="info" %}
 Most states require 50 CME hours per 2-year cycle. AMA PRA Category 1 credit is accepted by all state boards.
-{{% endhint %}}
+{% endhint %}
 
 | State | Hours / Cycle | Notes |
 |---|:---:|---|

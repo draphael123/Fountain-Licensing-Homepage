@@ -2,9 +2,9 @@
 
 Approximate fees as of 2025–2026. **Always verify current fees on the board portal before submitting.**
 
-{{% hint style="warning" %}}
+{% hint style="warning" %}
 Fees change frequently. This table is a planning reference only — confirm the exact amount on the official board portal before payment.
-{{% endhint %}}
+{% endhint %}
 
 | State | NP App | NP Renewal | MD/DO App | MD/DO Renewal | CSR Fee |
 |---|:---:|:---:|:---:|:---:|:---:|

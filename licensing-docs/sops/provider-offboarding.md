@@ -3,9 +3,9 @@
 **Owner:** Daniel Raphael
 **Trigger:** Provider termination or resignation
 
-{{% hint style="danger" %}}
+{% hint style="danger" %}
 **Day 1 actions are time-sensitive.** Complete all system access revocations on the provider's last working day.
-{{% endhint %}}
+{% endhint %}
 
 ---
 

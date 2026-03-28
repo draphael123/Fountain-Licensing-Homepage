@@ -2,9 +2,9 @@
 
 ## IMLC Compact
 
-{{% hint style="success" %}}
+{% hint style="success" %}
 **IMLC eligible physicians** can obtain expedited licensure in member states — typically 2–4 weeks vs. 8–16 weeks for standard applications. Apply via [imlcc.org](https://imlcc.org/).
-{{% endhint %}}
+{% endhint %}
 
 **IMLC eligibility requires:**
 - Full, unrestricted license in a principal state of licensure

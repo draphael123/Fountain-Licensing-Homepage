@@ -2,13 +2,13 @@
 
 Prescription Monitoring Program (PMP) registration status across 52 states.
 
-{{% hint style="info" %}}
+{% hint style="info" %}
 ✅ Registered &nbsp;·&nbsp; ⏳ Pending &nbsp;·&nbsp; ❌ Not Registered &nbsp;·&nbsp; — Not Applicable
-{{% endhint %}}
+{% endhint %}
 
-{{% hint style="warning" %}}
+{% hint style="warning" %}
 ⏳ **33 pending registrations** — follow up to confirm completion.
-{{% endhint %}}
+{% endhint %}
 
 
 | State | Doron | Tzvi Doron | Lindsay  | Bill C | Summer | Victor L | Martin | Tim M | Bryana | Priya |
